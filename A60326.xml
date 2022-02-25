@@ -1,0 +1,1080 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>Comforts against the fear of death. Being some short meditations, composed by that precious gentlewoman Mrs. Anne Skelton, late of Norwich Wherein are several evidences of the work of grace in her own soul, which were the stay of her heart, against the fear of death; from which may be discerned the name of a true Christian spirit. To which is added some short notes of a sermon preached at the burial of that choyce servant of God in St. Andrews in Norwich. By John Collings M.A. and one of the most unworthy embassadors of Jesus Christ for the preaching of the gospel in the late city.</title>
+            <author>Skelton, Anne.</author>
+         </titleStmt>
+         <editionStmt>
+            <edition>
+               <date>1649</date>
+            </edition>
+         </editionStmt>
+         <extent>Approx. 114 KB of XML-encoded text transcribed from 50 1-bit group-IV TIFF page images.</extent>
+         <publicationStmt>
+            <publisher>Text Creation Partnership,</publisher>
+            <pubPlace>Ann Arbor, MI ; Oxford (UK) :</pubPlace>
+            <date when="2011-12">2011-12 (EEBO-TCP Phase 2).</date>
+            <idno type="DLPS">A60326</idno>
+            <idno type="STC">Wing S3932A</idno>
+            <idno type="STC">ESTC R221500</idno>
+            <idno type="EEBO-CITATION">99832798</idno>
+            <idno type="PROQUEST">99832798</idno>
+            <idno type="VID">37272</idno>
+            <availability>
+               <p>To the extent possible under law, the Text Creation Partnership has waived all copyright and related or neighboring rights to this keyboarded and encoded edition of the work described above, according to the terms of the CC0 1.0 Public Domain Dedication (http://creativecommons.org/publicdomain/zero/1.0/). This waiver does not extend to any page images or other supplementary files associated with this work, which may be protected by copyright or other license restrictions. Please go to https://www.textcreationpartnership.org/ for more information about the project.</p>
+            </availability>
+         </publicationStmt>
+         <seriesStmt>
+            <title>Early English books online.</title>
+         </seriesStmt>
+         <notesStmt>
+            <note>(EEBO-TCP ; phase 2, no. A60326)</note>
+            <note>Transcribed from: (Early English Books Online ; image set 37272)</note>
+            <note>Images scanned from microfilm: (Early English books, 1641-1700 ; 2060:28)</note>
+         </notesStmt>
+         <sourceDesc>
+            <biblFull>
+               <titleStmt>
+                  <title>Comforts against the fear of death. Being some short meditations, composed by that precious gentlewoman Mrs. Anne Skelton, late of Norwich Wherein are several evidences of the work of grace in her own soul, which were the stay of her heart, against the fear of death; from which may be discerned the name of a true Christian spirit. To which is added some short notes of a sermon preached at the burial of that choyce servant of God in St. Andrews in Norwich. By John Collings M.A. and one of the most unworthy embassadors of Jesus Christ for the preaching of the gospel in the late city.</title>
+                  <author>Skelton, Anne.</author>
+                  <author>Collinges, John, 1623-1690. aut.</author>
+               </titleStmt>
+               <extent>95, [1] p.   </extent>
+               <publicationStmt>
+                  <publisher>printed for J. M. for Nathaniel Brooks, and are to be sold at his shop at the Angel in Cornhil,</publisher>
+                  <pubPlace>London :</pubPlace>
+                  <date>1649.</date>
+               </publicationStmt>
+               <notesStmt>
+                  <note>Imperfect; pages stained, and with print show-through with some loss of text.</note>
+                  <note>Reproduction of the original in the British Library.</note>
+               </notesStmt>
+            </biblFull>
+         </sourceDesc>
+      </fileDesc>
+      <encodingDesc>
+         <projectDesc>
+            <p>Created by converting TCP files to TEI P5 using tcp2tei.xsl,
+      TEI @ Oxford.
+      </p>
+         </projectDesc>
+         <editorialDecl>
+            <p>EEBO-TCP is a partnership between the Universities of Michigan and Oxford and the publisher ProQuest to create accurately transcribed and encoded texts based on the image sets published by ProQuest via their Early English Books Online (EEBO) database (http://eebo.chadwyck.com). The general aim of EEBO-TCP is to encode one copy (usually the first edition) of every monographic English-language title published between 1473 and 1700 available in EEBO.</p>
+            <p>EEBO-TCP aimed to produce large quantities of textual data within the usual project restraints of time and funding, and therefore chose to create diplomatic transcriptions (as opposed to critical editions) with light-touch, mainly structural encoding based on the Text Encoding Initiative (http://www.tei-c.org).</p>
+            <p>The EEBO-TCP project was divided into two phases. The 25,368 texts created during Phase 1 of the project (2000-2009), initially available only to institutions that contributed to their creation, were released into the public domain on 1 January 2015. The approximately 40,000 texts produced during Phase 2 (2009- ), of which 34,963 had been released as of 2020, originally similarly restricted, were similarly freed from all restrictions on 1 August 2020. As of that date anyone is free to take and use these texts for any purpose (modify them, annotate them, distribute them, etc.). But we do respectfully request that due credit and attribution be given to their original source.</p>
+            <p>Users should be aware of the process of creating the TCP texts, and therefore of any assumptions that can be made about the data.</p>
+            <p>Text selection was based on the New Cambridge Bibliography of English Literature (NCBEL). If an author (or for an anonymous work, the title) appears in NCBEL, then their works are eligible for inclusion. Selection was intended to range over a wide variety of subject areas, to reflect the true nature of the print record of the period. In general, first editions of a works in English were prioritized, although there are a number of works in other languages, notably Latin and Welsh, included and sometimes a second or later edition of a work was chosen if there was a compelling reason to do so.</p>
+            <p>Image sets were sent to external keying companies for transcription and basic encoding. Quality assurance was then carried out by editorial teams in Oxford and Michigan. 5% (or 5 pages, whichever is the greater) of each text was proofread for accuracy and those which did not meet QA standards were returned to the keyers to be redone. After proofreading, the encoding was enhanced and/or corrected and characters marked as illegible were corrected where possible up to a limit of 100 instances per text. Any remaining illegibles were encoded as &lt;gap&gt;s. Understanding these processes should make clear that, while the overall quality of TCP data is very good, some errors will remain and some readable characters will be marked as illegible. Users should bear in mind that in all likelihood such instances will never have been looked at by a TCP editor.</p>
+            <p>The texts were encoded and linked to page images in accordance with level 4 of the TEI in Libraries guidelines.</p>
+            <p>Copies of the texts have been issued variously as SGML (TCP schema; ASCII text with mnemonic sdata character entities); displayable XML (TCP schema; characters represented either as UTF-8 Unicode or text strings within braces); or lossless XML (TEI P5, characters represented either as UTF-8 Unicode or TEI g elements).</p>
+            <p>Keying and markup guidelines are available at the <ref target="http://www.textcreationpartnership.org/docs/.">Text Creation Partnership web site</ref>.</p>
+         </editorialDecl>
+         <listPrefixDef>
+            <prefixDef ident="tcp"
+                       matchPattern="([0-9\-]+):([0-9IVX]+)"
+                       replacementPattern="http://eebo.chadwyck.com/downloadtiff?vid=$1&amp;page=$2"/>
+            <prefixDef ident="char"
+                       matchPattern="(.+)"
+                       replacementPattern="https://raw.githubusercontent.com/textcreationpartnership/Texts/master/tcpchars.xml#$1"/>
+         </listPrefixDef>
+      </encodingDesc>
+      <profileDesc>
+         <langUsage>
+            <language ident="eng">eng</language>
+         </langUsage>
+         <textClass>
+            <keywords scheme="http://authorities.loc.gov/">
+               <term>Death --  Religious aspects --  Early works to 1800.</term>
+               <term>Funeral sermons --  17th century.</term>
+            </keywords>
+         </textClass>
+      </profileDesc>
+      <revisionDesc>
+         <change>
+            <date>2010-10</date>
+            <label>TCP</label>Assigned for keying and markup</change>
+         <change>
+            <date>2010-10</date>
+            <label>Apex CoVantage</label>Keyed and coded from ProQuest page images</change>
+         <change>
+            <date>2011-01</date>
+            <label>Ali Jakobson</label>Sampled and proofread</change>
+         <change>
+            <date>2011-01</date>
+            <label>Ali Jakobson</label>Text and markup reviewed and edited</change>
+         <change>
+            <date>2011-06</date>
+            <label>pfs</label>Batch review (QC) and XML conversion</change>
+      </revisionDesc>
+   </teiHeader>
+   <text xml:lang="eng">
+      <front>
+         <div type="title_page">
+            <pb facs="tcp:37272:1"/>
+            <pb facs="tcp:37272:1"/>
+            <p>
+               <hi>COMFORTS</hi> Againſt the fear of DEATH: Being ſome ſhort Meditations, com<g ref="char:EOLhyphen"/>poſed by that precious Gentle woman Mrs. <hi>Anne Skelton,</hi> late of Norwich.</p>
+            <p>Wherein are ſeveral Evidences of the work of Grace in her own Soul, which were the Stay of her Heart, againſt the fear of Death; From which may be diſcerned the <gap reason="illegible" resp="#APEX" extent="2 letters">
+                  <desc>••</desc>
+               </gap>able of a true Chriſtian ſpirit.</p>
+            <p>To which is added ſome ſhort Notes of a Ser<g ref="char:EOLhyphen"/>mon preached at the Burial of that choyce Ser<g ref="char:EOLhyphen"/>vant of God in St. <hi>Andrews</hi> in <hi>Norwich.</hi>
+            </p>
+            <p>By JOHN COLLINGS M. A. and one of the moſt unworthy Embaſtadors of Jeſus Chriſt for the preaching of the Goſpel in the ſaid City.</p>
+            <q>
+               <bibl>Phil. 1. 21.</bibl> 
+               <hi>For to me to live, is Chriſt; and to dye, is gain.</hi>
+            </q>
+            <q>
+               <bibl>Ver. 23.</bibl> 
+               <hi>For I am in a ſtrait betwixt two, having a <gap reason="illegible" resp="#APEX" extent="1 word">
+                     <desc>〈◊〉</desc>
+                  </gap> to depart, and to be with Christ, which is far <gap reason="illegible" resp="#APEX" extent="1 word">
+                     <desc>〈◊〉</desc>
+                  </gap>.</hi>
+            </q>
+            <p>
+               <hi>London,</hi> Printed by <hi>I.</hi> M. for <hi>Nathaniel Brooks,</hi> and are to be ſold at his ſhop at the Angel in <hi>Corhnil.</hi> 1649.</p>
+            <pb facs="tcp:37272:2"/>
+            <pb facs="tcp:37272:2" rendition="simple:additions"/>
+            <gap reason="duplicate" extent="1 page">
+               <desc>〈1 page duplicate〉</desc>
+            </gap>
+         </div>
+         <div type="dedication">
+            <pb facs="tcp:37272:3"/>
+            <pb facs="tcp:37272:3"/>
+            <head>TO My truly honored Friend WILLIAM SKELTON, <hi>Gent.</hi> Increaſe of Happineſs and Comfort.</head>
+            <opener>
+               <salute>SIR,</salute>
+            </opener>
+            <p>
+               <seg rend="decorInit">I</seg>T is my happineſs, that I can be acquainted a little in her writings with her, with whom God was pleaſed to give me ſo ſhort a time of acquaintance in this life. Sir, though I could not deny my worthleſs labors, as my laſt piece of ſervice to her; yet, had it not been to tempt out this little piece into the world, I ſhould have denyed this Sermon any further publication then the Pulpit in which it was preached. I need not excuſe it to you (Sir<g ref="char:punc">▪</g>) who know enough what <hi>impar opus humeris</hi> con<g ref="char:EOLhyphen"/>ſtantly lies upon my ſhoulders, that I had neither time to compoſe it, not yet ſince to enlarge or refine it; but have ſent you my own Notes, <hi>totidem verbis,</hi> as the firſt day written. I ſhall beg, Sir, That her Notes may be prefixed to the Sermon; I ſhall be a little covered under ſo ſweet a ſhadow, and the Readere expectation
+<pb facs="tcp:37272:4"/>
+will be ſatisfied, before his eye reacheth my Sermon: But, Sir, (without a Com<g ref="char:EOLhyphen"/>plement, which is but the folly of excuſe) the Sermon holds out ſomething of Chriſt, his name is precious: Reading, Rhetorick, <hi>&amp;c.</hi> are but the poverty of the Creatures endeavors. In her writing you will be a Spectator to a pitcht battel, ſought betwixt her Soul and Death: My Sermon will preſent you with the Con<g ref="char:EOLhyphen"/>queror, ſinging Triumph, we ſight, but Chriſt conquers; nay, to ſpeak truth, he both fights, and conquers too. After I had ſeen her upon her death-bed, ſo fully triumphing over the King of Terrors, I could not but at her Funeral rejoyce, con<g ref="char:EOLhyphen"/>cerning Death, with crying, <hi>O Death, where's thy ſting? O Hell, where's thy victory?</hi> It hath often pleaſed my ſecret thoughts, to remember her, over-looking Death, when the pangs of Death had taken hold of her. Ah Sir! how ſweet is it to have an aſſurance of Chriſts love? What a nobleneſs of ſpirit is there in the true Chriſtian, that can call Death and Hell cowards? It is no marvel to ſee a profane beaſtly wretch (whoſe conſcience the Lord hath feared to damnation) dying
+<pb facs="tcp:37272:4" rendition="simple:additions"/>
+quietly; but to ſee a knowing Chriſtian, of an awakened conſcience, to dye tri<g ref="char:EOLhyphen"/>umphingly, and make an holy-day of leaving all Creature-conte<gap reason="illegible" resp="#APEX" extent="2 letters">
+                  <desc>••</desc>
+               </gap>nents: O this is the mighty Conqueſt of the Soul, through the great work of him that hath led Captivity captive: Sir, methinks it ſhould comfort you to think how willing ſhe was to part with you, (though be<g ref="char:EOLhyphen"/>fore more dear then her own life to her.) It argued no want of love, to deſire Chriſts company more then yours. Alas! Sir, you never dyed upon the Croſs for her. Let it refreſh you, Sir, to think how much you were beholden to the Bride<g ref="char:EOLhyphen"/>groom of Glory, that he would truſt you with his Bride ſo long a time: The enjoy<g ref="char:EOLhyphen"/>ment of ſuch a Saint thirty years Sir) is a great piece of Heaven. Is ſhe gone? No Sir; only reſtored: Where ſhe is, ſhe is in good keeping; and as well-beloved as ſhe loves. You have reſigned her, Sir<g ref="char:punc">▪</g> And it was but Juſtice that the Lord Je<g ref="char:EOLhyphen"/>ſus ſhould have his Wife, when he ſent ſuch a meſſenger for her as would not be denyed: Ah! Sir, let us follow, ſhe is gone before; It ſhould ſeem her Manſion was ready before ours. or (which is
+<pb facs="tcp:37272:5"/>
+moſt probable) her Soul was fitter for it then ours: She was firſt dreſt, and there<g ref="char:EOLhyphen"/>fore is firſt gone to take her walk in the Paradiſe of God. Sir, let us bluſh, and get ready; how long ſhall her glory anti<g ref="char:EOLhyphen"/>date ours? But it will be ſome comfort to think, that though ſhe hath got the ſtart in Heaven before us, yet ſhe will be walking there till we come: It is a rare walk, that wearres not the feet of he Re<g ref="char:EOLhyphen"/>deemed ones: Here we wall upon ſtones, there we ſhall have a gardes-walk, and legs that cannot be weary. <gap reason="illegible" resp="#APEX" extent="1 letter">
+                  <desc>•</desc>
+               </gap>ut yet let us make haſte; there's odds betwixt Earth and Heaven; what ever our enjoy<g ref="char:EOLhyphen"/>ments here be. This Sermon, <gap reason="illegible" resp="#APEX" extent="2 letters">
+                  <desc>••</desc>
+               </gap> rather her own prefixed Meditations, may mind you of her, Sir, who now is before the Throne, and is ſatisfied with the likeneſs of him who is <hi>the brightneſs of his Fa<g ref="char:EOLhyphen"/>ther's glory.</hi> I beſeech you Sir, as it minds you of her, ſo let it quicken you after her. So ſhall God have the glory your Soul the comfort; and he the anſwer of his prayers, who is, Sir,</p>
+            <closer>
+               <signed>Your moſt unworthy Servant in the work of the Lord Jeſus, <hi>JOHN COLLINGS.</hi>
+               </signed>
+               <dateline>From my ſtudy in <hi>Ch<gap reason="illegible" resp="#APEX" extent="1 letter">
+                        <desc>•</desc>
+                     </gap>plyfield</hi> houſe in <hi>Nor<g ref="char:EOLhyphen"/>wich,</hi> 
+                  <date>Auguſt 26, 1648.</date>
+               </dateline>
+            </closer>
+         </div>
+         <div type="to_the_reader">
+            <pb facs="tcp:37272:5"/>
+            <head>TO THE CHRISTIAN AND Ingenious Reader, Eſpecially ſuch as fear Death, for want of aſſurance of Chriſts Love.</head>
+            <opener>
+               <salute>Chriſtian Reader,</salute>
+            </opener>
+            <p>
+               <hi>
+                  <seg rend="decorInit">I</seg>
+               </hi> Here preſent thee with a copy, after which I would have thee to write; ſome few Meditations of that precious Saint of God Miſtriſs <hi>Anne Skelton:</hi> I need not ſpeak for her; as thoſe parents ſaid of their child, ſo I ſhall ſay of her, <hi>She is of age, let her ſpeak for her ſelf:</hi> Of age ſhe is, for ſhe hath taken up her in<g ref="char:EOLhyphen"/>heritanes in Glory; what her life was let her books ſpeak: It was not her courſe to triffle away her time by ſleeping or dreſſing; as the moſt of her quality uſe to do; God had given her another Spirit, <hi>viz.</hi> to ſtrive to go as faſt to Heaven, as moſt gallants do to go before each other in <gap reason="illegible" resp="#APEX" extent="1 letter">
+                  <desc>•</desc>
+               </gap>all.
+<pb facs="tcp:37272:6"/>
+I was acquainted with but a few of her laſt days, but it was eaſie to diſcern by the honey the laboriouſneſs of the Bee: Her reported practiſe was to have made Hea<g ref="char:EOLhyphen"/>ven her [<gap reason="illegible" resp="#APEX" extent="1 letter">
+                  <desc>•</desc>
+               </gap>ſay] and the neceſſary things of this world her <gap reason="foreign">
+                  <desc>〈 in non-Latin alphabet 〉</desc>
+               </gap> if her time allotted for worldly affairs, would allow her any minutes for God, ſhe would im<g ref="char:EOLhyphen"/>prove them, of they would do her no good, ſhe was reſolved they ſhould do her no hurt, by committing ſacriledg upon her religious hours; if her Kitchin would lend no time to her Cloſet, yet ſhe would be ſure it ſhould ſteal not a minute from it. For her worldly imployments, as ſhe was conſciencious in her relations, ſo ſhe was refreſhed when ſhe could waſh the pitch from her fingers, and have liberty to go ſit with her God. Her Cloſet work was no chambering and wantoneſs, but a ſerious ſtudy to make he<gap reason="illegible" resp="#APEX" extent="2 letters">
+                  <desc>••</desc>
+               </gap> 
+               <gap reason="illegible" resp="#APEX" extent="2 letters">
+                  <desc>••</desc>
+               </gap>lling and e<g ref="char:EOLhyphen"/>lection ſure: To this end ſhe reads with underſtanding, obſerving, and carefully tranſcribing the promiſes ſhe had gather<g ref="char:EOLhyphen"/>ed up her Bonds, and knew how much God was in his Word an accomptant to her Soul, and was never in want, but ſhe had a Bond to put in ſute, knowing that <hi>he</hi>
+               <pb facs="tcp:37272:6"/>
+               <hi>was faithful that had promiſed.</hi> She was a conſciencious attender upon God in his Ordinances, and it was her practiſe not to hear as one that looks his natural face in a glaſs, that preſently goeth away and forgetteth what manner of man he was: She would obſerve mater al paſſages, and upon her retirements record them with her pen; if in any thing <gap reason="illegible" resp="#APEX" extent="2 letters">
+                  <desc>••</desc>
+               </gap> doubted, ſhe ceaſed not till ſhe was ſatisfied. And whereas it is the too blame-worthy pra<g ref="char:EOLhyphen"/>ctiſe of Chriſtians to ſeek cavils againſt themſelves, ſtriving by their cavillings to unſettle their ſpirits; ſhe rather ſta<g ref="char:EOLhyphen"/>dyed to make it her work to find what in<g ref="char:EOLhyphen"/>tereſt God had in her Soul, then what ſhe might have to ſay againſt her ſelf, nor in this was her labour without fruit. Thou ſhalt read here what a writing ſhe had drawn for Heaven, to make it ſure to her Soul, and <gap reason="illegible" resp="#APEX" extent="1 span">
+                  <desc>〈…〉</desc>
+               </gap> had ſtriven, ſo the Lord had crowned her Souls endeavours with ſuch an aſſurance, as failed not her Soul in her dying hour. It was my happineſs to be a witneſs to the latter end of her life: It pleaſed God to continue her holy day to the laſt hour, in ſuch a meaſure,
+<pb facs="tcp:37272:7"/>
+that Death had not an ill look from her. There mightſt thou haue ſeen; Chriſtian, what a conquest Chriſt had made over Death and Hell, Death had in her truly loſt his ſting and Hell was cheated of its victory, Captivity was led Captive. I ſhall commend to thee this little piece, penned with her own hand, (by which thou mayſt diſ<gap reason="illegible" resp="#APEX" extent="4 letters">
+                  <desc>••••</desc>
+               </gap> with what an excel<g ref="char:EOLhyphen"/>lency of Graces, as well as Gifts the Lord had crowned her.) I commend it to thee, not to be read only, but that (as by a true touch<gap reason="illegible" resp="#APEX" extent="2 letters">
+                  <desc>••</desc>
+               </gap>one) thou mayſt try thy own Soul by it, and find whether thou beeſt ready to dye or no. Thou ſhalt find this choice Servant of God dealing truly with her own heart, neither preſumptuouſly flat<g ref="char:EOLhyphen"/>tering, nor unwarrantabl<gap reason="illegible" resp="#APEX" extent="1 letter">
+                  <desc>•</desc>
+               </gap> dejecting her own Spirit. For what of <gap reason="illegible" resp="#APEX" extent="2 letters">
+                  <desc>••</desc>
+               </gap>ine is added, I beſeech thee take the goodwill, that he that offers it bears to thy Soul<g ref="char:punc">▪</g> I acknow<g ref="char:EOLhyphen"/>ledg there is nothing of a Schollar in it; if there be the more of Chriſt, let God have the Glory, thy Soul the benefit, and the Author thy prayers, who is,</p>
+            <closer>
+               <signed>
+                  <hi>Thy true Servant in the work of the Lord Jeſus,</hi> John Collings.</signed>
+               <dateline>
+                  <hi>From my ſtu<g ref="char:EOLhyphen"/>dy<g ref="char:punc">▪</g>
+                  </hi> 
+                  <date>Aug. 27, 1648.</date>
+               </dateline>
+            </closer>
+         </div>
+      </front>
+      <body>
+         <div type="treatise">
+            <pb n="11" facs="tcp:37272:7"/>
+            <head>
+               <hi>Infallable Signes</hi> OF <hi>Saving Grace,</hi>
+            </head>
+            <p>Each one an Evidence for Heaven, each Evidence an Anti<g ref="char:EOLhyphen"/>dote againſt the Fear of Death; Death being to the Soul, endowed with Grace only Heavens Gate, to enter in, by, or through it, to Eternal Glory and Happineſs.</p>
+            <p>
+               <seg rend="decorInit">I</seg>T is a <gap reason="illegible" resp="#APEX" extent="1 letter">
+                  <desc>•</desc>
+               </gap>rrevokable decree of Heaven, that all men muſt once dye; yea it is the Law of the God of Nature, and muſt be obeyed, (no avoid<g ref="char:EOLhyphen"/>ing it.) The Scripture faith, it is appoint<g ref="char:EOLhyphen"/>ed to all men once to dye; Therefore, oh my Soul, ſeeing there is no eſcap<gap reason="illegible" resp="#APEX" extent="3 letters">
+                  <desc>•••</desc>
+               </gap> Death, thy only way is to prepare for in
+<pb facs="tcp:37272:8"/>
+get the ſting of it taken away, ſo ſhall it not hurt thee, nor be terrible to thee; no cauſe then to fear Death for it ſhall be but a meſſenger ſent from God, thy Father, to fetch thee home to him, and free thee from all ſins, which is thy greateſt burden, and all ſorrows and miſeries that ſin oc<g ref="char:EOLhyphen"/>caſioneth, and carry thee to Heaven, to Happineſs and Glory, to thy Saviour and Redeemer, the Lord Jeſus Chriſt, to raign with him, for ever, in Heaven.</p>
+            <p>Now the only way, to make Death thus to thee, is, to clear up thy evidences for Heaven. Wherefore, on my Soul, get thee more Intereſt in Chriſt, make that more ſure to thy ſelf, that Chriſt is thine, and thou art his, and then no cauſe at all for thee to fear death.</p>
+            <p>As it is certain that Death will come even to thee, as well as to others, ſo is it moſt uncertain, the time when it ſhall come<hi>:</hi> Therefore (my Soul) defer it not, for it ſtands thee as much upon as thy life, may as thy eternal well being for ever<g ref="char:EOLhyphen"/>more, to make that ſure to thy ſelf, even now, while it is called to day, and that up<g ref="char:EOLhyphen"/>on good grounds, that thou haſt a ſure ti<g ref="char:EOLhyphen"/>tle to Heaven, art an heir of it, and haſt an
+<pb facs="tcp:37272:8"/>
+Intereſt in Chriſt, then it ſhall be well with thee after Death, that ſhall be a hap<g ref="char:EOLhyphen"/>py change for thee, no cauſe then to fear it. Therefore, oh my Soul, why art thou ſo caſt down? And why art thou ſo diſ<g ref="char:EOLhyphen"/>quieted within me? And why feareſt thou Death ſo much? Haſt thou not ſome Evidences of Truth of Saving Grace to prove thou art in Chriſt? Dareſt thou deny it? Thou canſt not: Oh therefore now clear them up, view them well again, meditate on them ſeriouſly, bleſs God for them, and let them ſupport and comfort thee againſt the fear of Death, at all times, in all extremities or diſtreſles whatſoever may befall thee.</p>
+            <p>Conſider ſeriouſly with thy ſelf, hath not God promiſed to ſupport thee in, and deliver thee out of all afflictions and di<g ref="char:EOLhyphen"/>ſtreſſes in the beſt time, and mean while that all ſhall work for thy good? There<g ref="char:EOLhyphen"/>fore truſt thou in him for he never fails a<g ref="char:EOLhyphen"/>ny that truſt in him, reſt thou on his pro<g ref="char:EOLhyphen"/>miſe, and he will make it good to thee.</p>
+            <p>The firſt ground work of Grace in thee <milestone type="tcpmilestone" unit="unspecified" n="1"/> 
+               <gap reason="illegible" resp="#APEX" extent="1 letter">
+                  <desc>•</desc>
+               </gap>s this, God hath given thee the ſight of thy ſelf, thy ſinful, wretched and miſera<g ref="char:EOLhyphen"/>ble, yea damnable condition by nature,
+<pb facs="tcp:37272:9"/>
+thy ſins, both many and great, as well thy in<gap reason="illegible" resp="#APEX" extent="2 letters">
+                  <desc>••</desc>
+               </gap>nd corruption, of which <hi>David</hi> com<g ref="char:EOLhyphen"/>plains<g ref="char:punc">▪</g> 
+               <hi>Pſalm;</hi> 51. 5. As alſo thy continu<g ref="char:EOLhyphen"/>ed, actual tranſgreſſions, all thy life along, which are the fruits of that bitter root, ei<g ref="char:EOLhyphen"/>ther outward or inward, to wit thy na<g ref="char:EOLhyphen"/>tural averſneſs to all good, pronneſs to e<g ref="char:EOLhyphen"/>vil, perverſneſs of heart, rebelliouſneſs of will, diſorder of affections, and diſtemper of thy whole Soul, in every part; not as a meer natural diſturbance only, but as a ſpi<g ref="char:EOLhyphen"/>ritual diſeaſe, a wicked and wretched diſ<g ref="char:EOLhyphen"/>poſition, evil in it ſelf, &amp; of it ſelf, diſplea<g ref="char:EOLhyphen"/>ſing to God, and deſerving his curſe, and damnation of thy Soul and body, although it ſhould never break forth into any actual exceſs. And now, my Soul, hath not God alſo in ſome meaſure humbled thee, and broken thy heart too, for thy ſins? Are they not a burden, too heavy for thee to bear? Wert thou not once in thirte own apprehenſion, in a moſt deſperate conditi<g ref="char:EOLhyphen"/>on, ready to ſink under the load of them? Therefore, oh my Soul, <gap reason="illegible" resp="#APEX" extent="1 letter">
+                  <desc>•</desc>
+               </gap>o Chriſt calleth thee to come to him, and promiſeth, he will eaſe thee, <hi>Mat.</hi> 11. 28. There is a pro<g ref="char:EOLhyphen"/>miſe for thy faith to reſt on, apply it to thy ſelf, to ſupport thee; Doſt thou not
+<pb facs="tcp:37272:9"/>
+confeſs th<gap reason="illegible" resp="#APEX" extent="2 letters">
+                  <desc>••</desc>
+               </gap> to God, bewailing <gap reason="illegible" resp="#APEX" extent="1 word">
+                  <desc>〈◊〉</desc>
+               </gap> with great grief and ſorrow of heart? Yea doſt thou not abhor thy ſelf, judg and paſs on thy ſelf the ſentance of condemna<g ref="char:EOLhyphen"/>tior. to be thy due deſert, and that it were juſt with God if he had caſt thee into hell long ago?</p>
+            <p>No, no hypocrite, ever was willing to have this filthy ſink of his wholly laid o<g ref="char:EOLhyphen"/>pen to God, as thou, my Soul, art.</p>
+            <p>But did God leave thee in this miſera<g ref="char:EOLhyphen"/>ble, wretched, deſperate and damnable condition thou art in by nature, ſince the fall of <hi>Adam,</hi> whoſe <gap reason="illegible" resp="#APEX" extent="1 word">
+                  <desc>〈◊〉</desc>
+               </gap> thou wert then in, and ſo guilty of his ſin, and not only ſo, but deprived of that Image of God, that there is in thee nothing that is good, no<gap reason="illegible" resp="#APEX" extent="1 letter">
+                  <desc>•</desc>
+               </gap> a ſtrange averſeneſs and unp<gap reason="illegible" resp="#APEX" extent="1 letter">
+                  <desc>•</desc>
+               </gap>neſs to all good, and a pronneſs and readineſs to all evil?</p>
+            <p>No, no, for ever bleſſed praiſed and mag<g ref="char:EOLhyphen"/>nified be my good God, that out of his own free and unſpeakable love, infinite mercy, and abundant goodneſs; he hath found out a way, and ſhewed thee a way, and means, to free thee from this miſery, ſave, and make thee eternally happy, that neither Angels not men could do, no way <hi>whereby</hi>
+               <pb facs="tcp:37272:10"/>
+no <gap reason="illegible" resp="#APEX" extent="2 letters">
+                  <desc>••</desc>
+               </gap>eature, no means in Heaven or Earth <gap reason="illegible" resp="#APEX" extent="1 word">
+                  <desc>〈◊〉</desc>
+               </gap> do it; as Acts 4. 12. <hi>Neither is there ſalvatio<g ref="char:cmbAbbrStroke">̄</g> in any other, for there is no other name under Heaven given amongst men, whereby we muſt be ſaved.</hi> Even then God manifeſted his ſuperabundant, ſur<g ref="char:EOLhyphen"/>paſſing, unſearchable, unexpreſſable, in<g ref="char:EOLhyphen"/>comprehenſible love to the utmoſt, to give his only begotten, and deerly beloved Son, the Lord Jeſus Chriſt, the ſecond Perſon in the Trinity: God to take upon him our nature, and dye and ſhed his moſt pretious blood for ſinners, of whom thou art chief; and in the Goſpel God offer<g ref="char:EOLhyphen"/>eth his Son Chriſt freely, to all that will come, and drink of this water of Life free<g ref="char:EOLhyphen"/>ly, as <hi>Rev.</hi> 22. 17. therefore as freely to thee as any other.</p>
+            <p>Yet further, to heighten this wonder<g ref="char:EOLhyphen"/>ful Love of God, conſider the time when he did this, even then when thou deſiredſt it nor, nor ſoughtſt it, nay when thou wert an enemy and traytor to him; and then, for God ſo infinite in Majeſty, ſo to condeſcend to poor, wretched, ſinful man, that had ſo fal<gap reason="illegible" resp="#APEX" extent="1 letter">
+                  <desc>•</desc>
+               </gap> and plunged himſelf into ſuch a woful, ſinful and damnable condi<g ref="char:EOLhyphen"/>tion; Oh how great is the riches of his
+<pb facs="tcp:37272:10"/>
+mercy and love! Yet God <gap reason="illegible" resp="#APEX" extent="1 word">
+                  <desc>〈◊〉</desc>
+               </gap> not there; but behold more in the Goſpel, he opens the worth; Excellency, All ſufficien<g ref="char:EOLhyphen"/>cy and Fitneſs of Chriſt; to ſave thee, in particular; and he helps thee with grounds and incouragements to beleeve in Chriſt, though but weakly, and he doth, in ſome meaſure, ſtrengthen thee, to reſt; and caſt thy ſelf, on his mercy in Chriſt, be<g ref="char:EOLhyphen"/>cauſe of his promiſes; yea at ſuch times as there is a ſenſe of the wa<gap reason="illegible" resp="#APEX" extent="2 letters">
+                  <desc>••</desc>
+               </gap> of him, ſo <hi>David, Pſalm</hi> 42. 5, 8, 9, 11. And now, my Soul, <gap reason="illegible" resp="#APEX" extent="1 letter">
+                  <desc>•</desc>
+               </gap>aſt thou not not accepted of, and imbraced this free offers, or render of Chriſt, made to thee, by God thy Father, in as much as the Goſpel is preached to thee, and that upon his own terms, in all his offices, applying him to thy ſelf, to be thy King and Soveraign Lord to rule and govern thee, by his Laws, his Word, and his Spirit, to be thy Prophet, to diſcover the Coun<gap reason="illegible" resp="#APEX" extent="1 letter">
+                  <desc>•</desc>
+               </gap>ile of God to thee, and reveal himſelf to thee in his Goſpel, and to guide and inſtruct thee in his Baths? Doſt thee not as much, and heartily deſire, to have Chriſt rule thee, as to love thee, or <gap reason="illegible" resp="#APEX" extent="1 letter">
+                  <desc>•</desc>
+               </gap>o<gap reason="illegible" resp="#APEX" extent="1 letter">
+                  <desc>•</desc>
+               </gap>he a Prieſt, to offer up himſelf a Sacrifice for thee? Thou dareſt not, thou canſt not de<g ref="char:EOLhyphen"/>ny it.</p>
+            <p>
+               <pb facs="tcp:37272:11"/>
+A ſecond Sign or Evidence of Saving <milestone type="tcpmilestone" unit="unspecified" n="2"/> Grace, <gap reason="illegible" resp="#APEX" extent="1 letter">
+                  <desc>•</desc>
+               </gap>o, thy earneſt and unſatisfied, reſt<g ref="char:EOLhyphen"/>leſs deſire of Chriſt: Nothing but Chriſt can ſatisfie my Soul; I thriſt after him, my hearts pants for him, as the Hart after the rivers of water, ſo panteth my Soul for thee, O Lord, and I will never give thee reſt, but will wraſtle with thee, as thy Servant <hi>Jacob</hi> once did, I will never let thee go, thou that haſt promiſed to give Chriſt to them that ask, till thou give me Chriſt, and make me to know, that he is mine, and I am his. I can in truth ſay ſo for as I can ſearch and know mine own heart, if it do not deceive me, as the Apo<g ref="char:EOLhyphen"/>ſtle ſaith, <hi>Phil.</hi> 3. 7, 8. <hi>The things that wer<gap reason="illegible" resp="#APEX" extent="1 letter">
+                     <desc>•</desc>
+                  </gap> advantage to me, I now account loſs, for Chriſts ſake; yea I eſteem all things but as dung incompariſon of Chriſt.</hi>
+            </p>
+            <p>Doſt not thou, my Soul, prize Chriſt ſat afore all outward contentments? Even in the height of them, they are but as wi<g ref="char:EOLhyphen"/>thered flowers to thee; no pleaſure not ſweetneſs in them without Chriſt: Nay, no inward corruption but thou art right willing to part with for him.</p>
+            <p>It's not the manner of Hypocrites to be thus willing to relinquiſh all outward
+<pb n="19" facs="tcp:37272:11"/>
+contentments, much leſs to <gap reason="illegible" resp="#APEX" extent="1 letter">
+                  <desc>•</desc>
+               </gap>a<gap reason="illegible" resp="#APEX" extent="1 letter">
+                  <desc>•</desc>
+               </gap>don all inward corruptions for Chriſt, but in them is ſtill ſome private Reſervation.</p>
+            <p>But the earneſt deſire of my Soul is, to have all ſin ſubdued in me. Lord, Lord, by the power of thy holy Spirit, mortifie and kill every ſin: Oh! let not any one ſin rule in me, that I ſhould obey it, in the luſt of it; though ſin doe well in me, yet let me overcome it; truly it is my heavy burden, that I am in yoked with ſin, there<g ref="char:EOLhyphen"/>fore long I to go out of my ſelf; for in me is nothing that is good.</p>
+            <p>But in Chriſt is all ability to duty, and againſt ſin, all life and profit from the Or<g ref="char:EOLhyphen"/>dinances, and Chriſt conveys all, eſpecially to his Members, by their reſting on him for it, which we call beleeving.</p>
+            <p>Now Gods gracious invitations, to come to Chriſt, thou, my Soul, doſt im<g ref="char:EOLhyphen"/>brace, and upon the ſerious conſideration of the all-ſufficiency; fitneſs and willing<g ref="char:EOLhyphen"/>neſs of Chriſt to ſave thee, and the infinite love of the Father to give his Son for thee, and the unſpeakable love of Chriſt, in his condeſc<gap reason="illegible" resp="#APEX" extent="1 letter">
+                  <desc>•</desc>
+               </gap>ntion to the Father, ſo to dye, and undergo all the wrath of God, and all for thee, and the freeneſs of the mercy of
+<pb facs="tcp:37272:12"/>
+God, offering Chriſt in the Goſpel, and his Commandment to beleeve, as 1 <hi>John</hi> 3. 23. <hi>And this is his Commandment, that we ſhould beleeve in the name of his Son Jeſus Chriſt.</hi> Alſo the ſweetneſs and free<g ref="char:EOLhyphen"/>neſs of his promiſes to them that beleeve. Now in obedience to the one, and confi<g ref="char:EOLhyphen"/>dence of the other, thou, my Soul, are at length thereby imboldened and incoura<g ref="char:EOLhyphen"/>ged to repair to Chriſt<gap reason="illegible" resp="#APEX" extent="1 letter">
+                  <desc>•</desc>
+               </gap>, and by the free<g ref="char:EOLhyphen"/>neſs of the promiſes, art incouraged to ap<g ref="char:EOLhyphen"/>ply them to thy ſelf, not daring to exclude thy ſelf, but doſt beleeve, though but weakly.</p>
+            <p>A third. Sign or Evidence of Saving Grace is, thy Faith, thy full purpoſe of <milestone type="tcpmilestone" unit="unspecified" n="3"/> heart, and ſetled reſolutions, and endevors, ſtill ever to reſt and <gap reason="illegible" resp="#APEX" extent="1 word">
+                  <desc>〈◊〉</desc>
+               </gap> upon the Lord Jeſus, and his merits alone, for the diſ<g ref="char:EOLhyphen"/>charge of thy ſins, thy Sanctification, Juſti<g ref="char:EOLhyphen"/>fication, thy Souls ſafety and ſalvation; this indeed is the very act of juſtifying Faith, to which life and ſalvation is ſo oft in the word promiſed, and ſhall unſailably be made good, well therefore mayſt thou reſt ſatisfied in it; yet I reſt on him to ſtrengthen my weak faith: I ſay not, that Faith, as my act, doth juſtifie me; but it is
+<pb facs="tcp:37272:12"/>
+inſtrumental, as it's hand to receive Chriſt, and unite thee to him; thoſe righ<g ref="char:EOLhyphen"/>teouſneſs alone is the meritorious cauſe of thy Juſtification.</p>
+            <p>Now here is a promiſe for thee to reſt on, <hi>John</hi> 3. 16, 36. <hi>Whoſoever believeth in Chriſt ſhall not periſh, but have ever<g ref="char:EOLhyphen"/>laſting life;</hi> And <hi>he that believeth in the Son hath everlaſting life.</hi>
+            </p>
+            <p>Now, my Soul, exerciſe thy Faith, apply this promiſe to thy ſelf: I beleeve, and therefore I ſhall have everlaſting life: La<g ref="char:EOLhyphen"/>bor for that reflect act of thy Soul, to know more, that thou doſt beleeve: The ſincerity whereof in thee, is in ſome mea<g ref="char:EOLhyphen"/>ſure approved, by thy reſigning, and giving up thy ſelf wholly to him, as the Apoſtle, <hi>Gal.</hi> 2. 20. <hi>I am crucified with Chriſt, ne<g ref="char:EOLhyphen"/>vertheleſs I live, yet not I, but Chriſt li<g ref="char:EOLhyphen"/>veth in me, and th<gap reason="illegible" resp="#APEX" extent="1 letter">
+                     <desc>•</desc>
+                  </gap> life which I now live in the fleſh, I live by the Faith of the Son of God, who loved me, and gave him<g ref="char:EOLhyphen"/>ſelf for me.</hi> Deſiring, as well to be ruled and guided by him, as ſaved by him, pur<g ref="char:EOLhyphen"/>ged, as pardoned, freed from the pow<g ref="char:EOLhyphen"/>er, as the puniſhment of ſin, cleanſed from the filth, as diſcharged of the guilt of ſin.</p>
+            <p>
+               <pb n="22" facs="tcp:37272:13"/>
+What though thou art not able whol<g ref="char:EOLhyphen"/>ly to put it in practiſe, but loſt full of, and come ſhort in performance thereof; was not this the Apoſtle <hi>Paul</hi> his own caſe which he ſo <gap reason="illegible" resp="#APEX" extent="3 letters">
+                  <desc>•••</desc>
+               </gap>gely deploreth, <hi>Rom.</hi> 7. 15. 23. <hi>I allow not that which I do, for what I would that do I not, but what I hate that do I. I ſee another Law in my mem<g ref="char:EOLhyphen"/>bers rebelling againſt the Law of my mind, and leaving me Captive to the Law of ſin which is in my members.</hi> It ſufficeth to warrant the ſincerity of thee, my Soul and Spirit in this caſe; that with the ſame Apoſtle in the ſame place: Thou takeſt notice of thy failings, art grived for them, there is in thee a nature or part that ab<g ref="char:EOLhyphen"/>hors them, thou watcheſt againſt them, &amp; endeavoreſt what thou canſt, to reclaim thy ſelf, upon diſcovery of falling, laboreſt by carneſt prayer to God againſt them, and continueſt conſtant in the uſe of the means ſanctified by him, for ſpiritual ſtrength and abillity, and reſteſt on Chriſt, and expecteſt from him power to over<g ref="char:EOLhyphen"/>come thy corruptions; Therefore com<g ref="char:EOLhyphen"/>fort thy ſelf herein, (O my Soul,) and ap<g ref="char:EOLhyphen"/>ply this to thy ſelf, for thou art but in the ſame caſe that Apoſtle <hi>Paul</hi> was then in,
+<pb facs="tcp:37272:13"/>
+who at that very time had truth of grace, and was even then in a moſt happy and bleſſed condition; Therefore fear not, though thou findeſt many temptations, either to deſpair, or to think all thy hope but preſumption; none of the Saints or Servants of God was ever heard praying to be rid utterly of their corruptions forthwith, and at once: Suffice them and thee; it may, and muſt, that he will one day rid them utterly of all; and mean while, to ſupport thee: Know that thy corruptions ſhall never ſo prevail againſt thee as to reduce thee again to the ſway and ſoveraignty it once had in thee, when it had its throne in thee; theſe ſhew that there is a part in thee that is regenerated as <hi>Paul</hi> had.</p>
+            <p>Now to ſuch as theſe are the promiſes of God made good, <hi>Malla.</hi> 3. 16, 17. <hi>A book of remembrance was written before him, for them that feared the Lord, and thought upon his name: And they ſhall be to me, ſaith the Lord of H<gap reason="illegible" resp="#APEX" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>ſts, in thee day a flock, and I will ſpare them, and man ſpareth his own ſon that ſerveth him.</hi> 2 Chron. 30. 18, 19, 20. <hi>Hezekiah prayeth to the Lord to be merciful to</hi>
+               <pb n="24" facs="tcp:37272:14"/>
+               <hi>him, that prepareth his whole heart to ſeek the Lord God, though he be not cleanſed according to the purification of the San<g ref="char:EOLhyphen"/>ctuary; And the Lord heard Hezekiah, and healed the people.</hi> Pſal. 33. 18, 19. <hi>Be<g ref="char:EOLhyphen"/>hold, the eye of the Lord is upon them that fear him, and upon them that truſt in his mercy, to deliver their Souls from death, and to preſerve them in famine.</hi> Pſal. 37. 40. <hi>The Lord ſhall help them, and deliver them from the wicked, and ſhall ſave them, becauſe they truſt in him.</hi> Pſal. 34. 22. <hi>The Lord redeemeth the Souls of his Servants, and none that truſt in him ſhall periſh.</hi> Oh my Soul, ſet thy Faith a work, lo here are promiſes for it to reſt on, ap<g ref="char:EOLhyphen"/>ply them to thy ſelf, for they are preci<g ref="char:EOLhyphen"/>ous.</p>
+            <p>Another Sign or Evidence of Grace is, <milestone type="tcpmilestone" unit="unspecified" n="4"/> thy conſtant deſire of, and love to the Ordinances of God, whereby theſe may be attained, and that for this very end, that thou mayſt know what God requires of thee, and be enabled to practiſe it, and get ſtrength againſt thy corruptions, endea<g ref="char:EOLhyphen"/>vouring to apply thy ſelf thereto, with de<g ref="char:EOLhyphen"/>light in the uſe of them: This evidently teſtifies the ſincerity of thy deſire, love
+<pb n="25" facs="tcp:37272:14"/>
+and affection to God, as <hi>David</hi> urget<gap reason="illegible" resp="#APEX" extent="2 letters">
+                  <desc>••</desc>
+               </gap> oft, and preſſeth the like for himſelf, <hi>Pſa.</hi> 119. 11. <hi>I have hid thy promiſe in my heart that I might not ſin againſt thee.</hi> Alſo, Verſ. 24. <hi>Thy teſtimonies are my delight and my counſellors.</hi> And Ver. 33. <hi>Teach me, O Lord, the way of thy ſta<g ref="char:EOLhyphen"/>tutes, and I will keep it even to the and.</hi> Alſo, Verſ. 40. <hi>Behold I deſire thy com<g ref="char:EOLhyphen"/>mandments; quicken me in thy righte<g ref="char:EOLhyphen"/>ouſneſs.</hi>
+            </p>
+            <p>Hypocrites deſire the and only, delight in them; for by and ſiniſter ends; not enduring them, where they find they croſs their corruptions: But the cloſer they come home to thee, and moſt ſtrike at thy corruptions, the better thou likeſt, and more loveſt them; thou doſt not ſpare any ſin: <hi>I have ſworn that I will</hi> 
+               <note place="margin">Pſa. 119. 106</note> 
+               <hi>keep thy righteous judgments.</hi>
+            </p>
+            <p>Another evidence of Saving Grace, is, <milestone type="tcpmilestone" unit="unspecified" n="5"/> thy hatred of every falſe way, deſiring God to diſcover to thee thine iniquity, that thou art moſt prone, or apteſt to fall into, by natural inclination, cuſtom, or company; This was made an argument of <hi>Davids</hi> integrity. Therefore, O my Soul, make thou the ſame application to
+<pb n="26" facs="tcp:37272:15"/>
+thy ſelf alſo, to uphold and comfort thee.</p>
+            <p>And doſt thou not groan under the <gap reason="illegible" resp="#APEX" extent="1 letter">
+                  <desc>•</desc>
+               </gap>urthen of thy inward corruptions, and thoughes, as well as actual tranſgreſſions? Wouldſt not thou fain be rid of them? Is it not thy greateſt grief, that thou doſt dayly ſo ſin againſt God, who is ſo good, ſo loving and merciful to thee? Thou dareſt not deny it. Oh that I might and could ſo live, as never to commit any one ſin more, ſo long as I live, to offend ſo good a God as he is to me, not no more grieve nor quench his holy Spirit in the motions of it <gap reason="illegible" resp="#APEX" extent="1 letter">
+                  <desc>•</desc>
+               </gap> I reſolve ſo to do, Oh that I could do ſo!</p>
+            <p>Another ſign of true Grace, Haſt thou <milestone type="tcpmilestone" unit="unspecified" n="6"/> not reſpect unto all Gods Command<g ref="char:EOLhyphen"/>ments, deſiring univerſality of ſincere o<g ref="char:EOLhyphen"/>bedience to all alike? not ſhunning any one, nor reſerving any ſin to thy ſelf. So <hi>David,</hi> Pſa. 119. 5, 6. <hi>O that my ways were directed to keep thy Statutes: Then ſhould I not be aſhamed, when I have re<g ref="char:EOLhyphen"/>spect unto all thy Commandments.</hi> And when fallen, doſt thou not loath thy ſelf the more for that, and renew thy faith in Chriſt, and repentance as ſin is re<g ref="char:EOLhyphen"/>newed,
+<pb n="27" facs="tcp:37272:15"/>
+and feeſt it more and more vile, judging thy ſelf miſerable, becauſe that which is contrary to Gods will prevails over thee<g ref="char:punc">▪</g> And ſo thou doſt overcome ſin, though oft ſoiled by it, that which yet may ſtand with grace, though it abide to death in thee. Now, my Soul, doſt thou not mourn under this, Pray earneſt<g ref="char:EOLhyphen"/>ly, and reſt withal on Chriſt for help and aſſiſtance of his Spirit to enable thee to overcome all thy corruptions, ſtill ſtriv<g ref="char:EOLhyphen"/>ing againſt them; (thou dareſt not deny it:) And with unfeigned purpoſe never entertaining any known evil with full conſent of will, but co<gap reason="illegible" resp="#APEX" extent="2 letters">
+                  <desc>••</desc>
+               </gap>ially embracing the contrary grace and command, longing after more grace out of the fence of want of it? This is an infallible ſign of true grace, as <hi>Math.</hi> 5. 6. <hi>Bleſſed are they that hunger and thirſt for righteouſ<g ref="char:EOLhyphen"/>neſs, for they ſhall be filled.</hi> Therefore my Soul, apply this by faith; Bleſs God with humility, and take the comfort of it, that ſo thou mayſt walk the more thankfully, and love him more who hath ſo loved thee; and be more careful of all thy ways.</p>
+            <p>Another evidence, or mark of true <milestone type="tcpmilestone" unit="unspecified" n="7"/>
+               <pb n="28" facs="tcp:37272:16"/>
+Grace is, thy reſolving in the ſence of Gods abſence, yet then to ſtick to and reſt on his mercy through Chriſt, even unto death, by his aſſiſtance; <hi>Pſa.</hi> 13. 1. <hi>How long wilt thou forget me, O Lord, for ever? how long wilt thou hide thy face from me!</hi> Verſe 5. <hi>But I have truſted in thy mercy; my heart ſhall re<g ref="char:EOLhyphen"/>joyce in thy ſalvation.</hi>
+            </p>
+            <p>So ſtill continue thou teſting on Chriſt alone as to work in thee all grace; both to will and do, ſo to ſtrengthen and perfect it to the day of Chriſt, as <hi>Philip.</hi> 1. 6. And begging of God his Spirit, who is the Spirit of Grace, to help and enable thee, it being the ſap to make thee fruit<g ref="char:EOLhyphen"/>ful, for of thy ſelf thou canſt do nothing pleaſing to God; but all thy ſervices, as of thy ſelf, are an abomination in Gods preſence<hi>:</hi> But now if they come from Chriſt and the Spirit, then God is well pleaſed with them, and accepts them: And remember God hath promiſed to give the Spirit to them that ask it, <hi>Mat.</hi> 21. 23. <hi>Whatſoever we ask in Chriſts name, if we beleeve, we ſhall receive.</hi> And <hi>Luke</hi> 11. 13. <hi>If ye then, being evil, know how to give good gifts unto your</hi>
+               <pb n="29" facs="tcp:37272:16"/>
+               <hi>children; how much more then ſhall your<gap reason="illegible" resp="#APEX" extent="1 letter">
+                     <desc>•</desc>
+                  </gap> heavenly Father give the holy Spirit to them that ask him?</hi>
+            </p>
+            <p>Let that comfort thee; this was as argument to <hi>David</hi> of grace in him, let it be ſo to thee.</p>
+            <p>Another evidence of Grace, is, thy <milestone type="tcpmilestone" unit="unspecified" n="8"/> confident reſting on Gods mercy becauſe of his pror<gap reason="illegible" resp="#APEX" extent="1 letter">
+                  <desc>•</desc>
+               </gap>iſ<gap reason="illegible" resp="#APEX" extent="1 letter">
+                  <desc>•</desc>
+               </gap>; it's that upholds thee, knowing he is moſt faithful, as he can<g ref="char:EOLhyphen"/>not be deceived; ſo he will not deceive any that truſt in him: So <hi>David</hi> did, <hi>Pſa.</hi> 119. 81. <hi>My Soul ſainteth for thy Salvation, yet I wait for thy Word.</hi> When <hi>David</hi> heart fainted, this very thing ſtayd him, namely, that he truſted in Gods Word: <hi>Pſa.</hi> 34. 8. <hi>Bleſſed is the man that truſteth in the Lord.</hi> Pſa. 2. 12. <hi>Bleſſed and all that truſt in him.</hi> Pſa. 3. 18 <hi>Bleſſed are they that w<gap reason="illegible" resp="#APEX" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>l<gap reason="illegible" resp="#APEX" extent="1 letter">
+                     <desc>•</desc>
+                  </gap> for him: Bleſſ<g ref="char:EOLhyphen"/>ed is the man that truſteth in the Lord, and whoſe hope the Lord.</hi>
+            </p>
+            <p>And doſt not thou, my Soul, ſtill ſeek, wait, pray, hope, and with on humbl<gap reason="illegible" resp="#APEX" extent="1 letter">
+                  <desc>•</desc>
+               </gap> dependency deſire ſtill to truſt in God al<g ref="char:EOLhyphen"/>ways, though with much oppoſition? Yea when thou feeleſt no ſenſible evi<g ref="char:EOLhyphen"/>dence of Gods love and ſavor to thee,
+<pb n="30" facs="tcp:37272:17"/>
+yet even then Gods Word comforts thee; thou haſt given me more joy of heart then they have whoſe outward comforts abound, as <hi>Pſal.</hi> 4. 7. So thy Word comforts my Soul, in the midſt of great doubtings, diſtreſs and trouble, yet thou, my Soul, haſt ſtill ſome hope, by caſting thy ſelf on thy God, when other hopes ſtil, as <hi>David,</hi> Pſal. 142. 2, 3. <hi>I poured out my complaint before him, though my ſpirit was even over whelmed.</hi> Yet Verſ. 5. Even then ſaid he, <hi>I cryed unto thee, O Lord, and ſaid, thou art my hope and my portion in the land of the living.</hi> Now Oh my Soul, is not God thy portion alſo? Indeed he is: Haſt not thou taken him ſo to be? Yes truly, even to be thy All; and thou haſt, I hope, with a cordial reſignation, given up all thy intereſt to the Lord and his ſervice, at leaſt deſireſt and endeavereſt ſo to do in thy reſolutions. Good Lord put forth thy mighty, yea almighty power, and give me thy Spirit that may reach me, and enable me to walk as becometh ſuch a one as hath given up himſelf to ſerve thee; That I may, in the remainder of my l<gap reason="illegible" resp="#APEX" extent="1 letter">
+                  <desc>•</desc>
+               </gap>ſt, expreſs all ſincere and humble obedi<g ref="char:EOLhyphen"/>ence
+<pb n="31" facs="tcp:37272:17"/>
+to the Word delivered: O that I could!</p>
+            <p>Another evidence of Saving Grace, is, <milestone type="tcpmilestone" unit="unspecified" n="9"/> Thou doſt often afreſh renew thy faith and confidence in Chriſt, and reſigne and give up thy ſelf wholly to Chriſt to be guided and inſtructed by his Word and Spirit; and this purpoſe is firm in thee: And doſt thou not in bitterneſs of ſoul bewail end grieve for thy exceeding un<g ref="char:EOLhyphen"/>fruitfulneſs and unprofitableneſs under ſuch ſweet, precious, and powerful ordi<g ref="char:EOLhyphen"/>nances as thou haſt ſo long a time enjoy<g ref="char:EOLhyphen"/>ed; and implot<gap reason="illegible" resp="#APEX" extent="1 letter">
+                  <desc>•</desc>
+               </gap> the throne of Grace for the Spirit to ſhew forth its preſent vertue to make them become life and power to thee, and thou uſeſt them with hope in Chriſt? And ſince that the way to make them more profitable, is to be more, ſen<g ref="char:EOLhyphen"/>ſible of thy particular wants, and to prize the ordinances very highly, as the very breſts from and through which God con<g ref="char:EOLhyphen"/>veys all nouriſhment to his; Therefore quicken up thy ſelf, O my ſoul, to uſe them with what care and diligence thou canſt, and reſt on Chriſt, reſt not in the ordinance, but on God: Conſider what God can and will do for thee; expect
+<pb facs="tcp:37272:18"/>
+dayly help and ſtrength from him, in the uſe of his ordinances, and eſpecially in that of the Sacrament, act faith, and re<g ref="char:EOLhyphen"/>ject all diſcouragements, for they hinder the growth of grace as froſts do tender fruits. Oh when ſhall the time be that the ordinances ſhall be ſo powerful and efficacious as to kill all my corruptions, that I may <gap reason="illegible" resp="#APEX" extent="1 word">
+                  <desc>〈◊〉</desc>
+               </gap> the vertue of Chriſt his death killing the body of ſin in me, and the power of his reſurrection raiſing me up to newneſs of life, that holy frame of heart that hath been in other the ſervants of God? Sure there hath been ſuch a changing, quickening, raiſing, com<g ref="char:EOLhyphen"/>forting power attained from God in the uſe of his ordinances, both to beget, and ſo to ſtrengthen and encreaſe Grace; therefore I will never <gap reason="illegible" resp="#APEX" extent="1 word">
+                  <desc>〈◊〉</desc>
+               </gap> the Lord alone until he make, them <gap reason="illegible" resp="#APEX" extent="2 letters">
+                  <desc>••</desc>
+               </gap> to me, ſeeing he hath promiſed, <hi>Hea<gap reason="illegible" resp="#APEX" extent="2 letters">
+                     <desc>••</desc>
+                  </gap> maketh ſhall re<g ref="char:EOLhyphen"/>ceive: Ok, and it ſhall be given; ſeek, and you ſhall finds; knock, and it ſhall be opened unto you</hi> Math. 7. 7. Lord, I ask, I ſeek, I knock, let me obtain [Lord] its thine own free and gracious promiſe, (though free,) thou wert not any way tyed to make it,) (yet Lord) it's now thy
+<pb facs="tcp:37272:18"/>
+promiſe, that thou wilt give Grace to them that ſeek it; and ask it, and hunger after it. Lord, I deſire it more then my appointed food; [thou Lord] ſure, I truſt, will be prevailed with: Seeing the unjuſt Judg was ſo through importunity, ſhall not the juſt and righteous, yea mer<g ref="char:EOLhyphen"/>ciful God, be prevailed withall, when importuned for that which he promiſeth to give? Yes ſurely, he will moſt certain<g ref="char:EOLhyphen"/>ly make good even that promiſe to thee [my ſoul] in particular. Do but truſt in him, and preſs him with his own Word: nay more, it's a part of that new Covenant that God hath made with his ſervants, that he will take away the heart of ſtone, that is, all that hinders Grace; and he will <hi>give them a new heart, and put his Laws in their inward parts, and write it in their hearts; and will be their God, and they ſhall be his people, Jer.</hi> 31. 33. and <hi>Ez<gap reason="illegible" resp="#APEX" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>ek.</hi> 36. 25, 26, 27.</p>
+            <p>And that he will put his Spirit within us, and cauſe us to walk in his ſtatutes, beleeve ſo, and it ſhall be ſo to thee. Be encouraged; and wreſtle ſtill, for thou ſhalt obtain in the end. Hath God ſaid it? Build thou on it: Only go on in uſe
+<pb facs="tcp:37272:19"/>
+of his means, limit not the holy one, he is a free Agent, he may work when and how he pleaſeth; he delights to hear his chil<g ref="char:EOLhyphen"/>dren beg and cry oft to him; and remem<g ref="char:EOLhyphen"/>ber how prevalent prayer in Faith hath been with God, how great things it hath obtained of God, for particular Ser<g ref="char:EOLhyphen"/>vants of God, as that of <hi>Peters</hi> delivery by the prayers of the Church, <hi>Acts</hi> 12. when condemned to dye the next morn<g ref="char:EOLhyphen"/>ing, and no way or means that he knew <gap reason="illegible" resp="#APEX" extent="1 letter">
+                  <desc>•</desc>
+               </gap>t to eſcape; And ſo for Nations too. Doth the Lord then ſay, ſeek my face? Oh let my heart Anſwer, Lord thy face I do, I will ſtill ſeek, and wait till thou An<g ref="char:EOLhyphen"/>ſwer.</p>
+            <p>Another Evidence of Grace is, Thy <milestone type="tcpmilestone" unit="unspecified" n="10"/> earneſt deſire to ſerve the Lord, in ſinceri<g ref="char:EOLhyphen"/>ty, with an upright heart, above the deſire of Life it ſelf, ſo far as thou canſt ſearch, and knoweſt ought by thy ſelf; this muſt needs be an infallible ſign of true Grace; for nothing but truth of Grace can poſſi<g ref="char:EOLhyphen"/>bly deſire this.</p>
+            <p>Another ſign of true Grace is, Thou <milestone type="tcpmilestone" unit="unspecified" n="11"/> feareſt, at ſome times, that thou haſt no true Faith, or, at leaſt, that it is decaying, &amp; dying with thee, when as no true Grace,
+<pb facs="tcp:37272:19"/>
+either ſtands at a ſtay, or decays, which makes thee full of diſcouragements and diſquietneſs of ſpirit, fearing thy eſtate is not good; but what ever change is in thee (O my Soul) of ſeeming decay in Grace, or increaſe of corruption, yet thou canſt not but be ſure in the main; for wher there is a ſenſe of ſins evil, and a groaning under it, a high Valuation of Chriſt, and Grace, and longing after it with a ſelf-em<g ref="char:EOLhyphen"/>ptineſs, a deſire and purpoſe to hang on Chriſt, (as thou dareſt not deny, but <gap reason="illegible" resp="#APEX" extent="1 word">
+                  <desc>〈◊〉</desc>
+               </gap> in ſome meaſure in thee,) there is ground of comfort, and therefore apply it to thy ſelf, elſe thou wrongeſt thy ſelf, and the ſpirit alſo. Thou feareſt falling into ſin, let it make thee more watchful, and truſt more and more carefully in Chriſt; the view of thy wants ſhould not diſcourage thee, but abaſe thee in thine own eſteem, quicken thee to uſe the means, and preſs thee to go to Chriſt, and reſt on him, who can and will help all that thus repair to him: Therefore fear not falling off, for God hath promiſed to put his Fear into the hearts of his, that they ſhall not depart from him, <hi>Jer.</hi> 32. 40. Apply that promiſe to thy ſelf by Faith.</p>
+            <p>
+               <pb facs="tcp:37272:20"/>
+Having once true Grace, it can never be loſt; why therefore <hi>(O my Soul) art thou ſo caſt down, and why art thou ſo diſ<g ref="char:EOLhyphen"/>quieted within me? Trust ſtil in God, for I will, or ſhall, yet give him thanks; he is my preſent help, and my God,</hi> Pſalm 42. 5, 11, verſes. Or art thou thus diſquieted, be<g ref="char:EOLhyphen"/>cauſe thou art often foiled by ſins, that thou reſolveſt againſt?</p>
+            <p>O<gap reason="illegible" resp="#APEX" extent="1 letter">
+                  <desc>•</desc>
+               </gap> conſider, thou haſt an Advocate with the Father Jeſus Chriſt, who is thy Reconciliation; he ſitteth at the right hand of God, and there he plead thy cauſe for thee. Or is it becauſe thou art ſtill full of fears, that thy Grace is not true? Thou didſt once beleeve it was true, and that upon good ground; Therefore que<g ref="char:EOLhyphen"/>ſtion not that ground-work now, that were to go about to rip up, or undo, all that work of Grace that God hath wrought in thee.</p>
+            <p>Why then is it, O my Soul, becauſe of thoſe inward corruptions within thee that rebel againſt the Law and Will of God, and ſuch effects of them as thou canſt not be rid off, with whatſoever care and cau<g ref="char:EOLhyphen"/>tion thou canſt uſe? Or ſuch ſins, ſlips, and overſights, as thou art unwillingly
+<pb n="37" facs="tcp:37272:20"/>
+overtaken withall, or doſt inconſiderately ſlip into? For thou doſt not allow thy ſelf in any known ſin.</p>
+            <p>For this remember what was once my Cozen <hi>Gatakers</hi> Anſwer hereunto; to wit, conſider S. <hi>Paul</hi> his caſe, read but what he ſaith of himſelf, <hi>Rom.</hi> 7. from <hi>verſ.</hi> 15. to <hi>verſ.</hi> 24. <hi>That which I do, I allow not; for what I would, ha<gap reason="illegible" resp="#APEX" extent="1 letter">
+                     <desc>•</desc>
+                  </gap> do I not; but what I hate, that do I. If then I do that which I would not, I conſent unto the Law, that it is good. Now then it is no more I that do it, but ſin that dwelleth in me: For I know that in me (that is, in my fleſh) dwelleth no good thing. For to will is preſent with me, but how to per<g ref="char:EOLhyphen"/>form that which is good I find not. For the good that I would that do I not, but the evill which I hate that do I. I find then a Law, that when I would do good evil is preſent with me. For I delight in the Law of God after the inward man; but I ſee another Law in my members, warring againſt the Law of my mind, and bringing me into Captivity to the Law of ſin which is in my members.</hi>
+            </p>
+            <p>
+               <hi>And if you can ſay more of your ſelf, then he there doth of himſelf, I much</hi>
+               <pb n="38" facs="tcp:37272:21"/>
+               <hi>marvel; if not, you may conclude, your e<g ref="char:EOLhyphen"/>ſtate to be no worſe then his was.</hi>
+            </p>
+            <p>God indeed hears the prayers of his, but yet he doth not preſently give in kind the thing prayed for: The Apoſtle <hi>Paul</hi> was heard, when he prayed to be rid wholly of ſome corruption and temptation that he was anoyed and often foiled with. 2 <hi>Cor.</hi> 12. 7, 8. <hi>Leſt I ſhould be exalted above meaſure, through the Abundance of the Rovelations, there was given to me a throne in the fleſh, the maſſenger of Sa<g ref="char:EOLhyphen"/>tan to buffet me. For this thing I be<g ref="char:EOLhyphen"/>ſought the Lord thrice; that it might de<g ref="char:EOLhyphen"/>part from me.</hi> Remember Gods Anſwer to him, <hi>verſ.</hi> 9. <hi>My Grace is ſufficient for thee.</hi> So ſhall it be, my Soul, to thee; if thou reſt on his Word it ſhall be ſo. But mark, he was not preſently freed from it, but upheld in it. Or is it out of the ſenſe of thy want and great need of more Grace? Oh let not that diſcourage thee! indeed thou haſt the more need to go to Chriſt by Faith, who is the Fountain and Spring of all, he hath enough, and ſo fetch vertue and ſtrength from him; beleeve more, and thou ſhalt have more Grace; that is the only way to obtain it.</p>
+            <p>
+               <pb facs="tcp:37272:21"/>
+And remember Mr. <hi>Archers</hi> Anſwer once to thee, concerning this particular. <hi>(Dear Siſter) Let not that make thee doubt thou chriſt no truth of <gap reason="illegible" resp="#APEX" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>ence, which is an Evidence or effect of Grace, and is not until Grace be: <gap reason="illegible" resp="#APEX" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>t is no ſign thou haſt not Grace, but their thou hast Grace. Theſe things which make thee doubt, ad<g ref="char:EOLunhyphen"/>ded to the former, make me aſſumed of the goodneſs of thy ſtate. Satan ever makes that to be feared and doubted that is true and good. Theſe be conflicts of corruption &amp; Satan; which company Grace: Theſe be that ſmoak that argues fire; and Chriſt will not by <gap reason="illegible" resp="#APEX" extent="1 word">
+                     <desc>〈◊〉</desc>
+                  </gap> the ſmonking Flax: They be effects of Sanctification; therefore be comforted here with, I be<g ref="char:EOLhyphen"/>ſeech you,</hi>
+            </p>
+            <p>Another ſign of truth or Grace is, Thy <milestone type="tcpmilestone" unit="unspecified" n="12"/> very fear and jealouſie of thy own un<g ref="char:EOLhyphen"/>ſoundneſs and deceitfulneſs of thy heart; this acquits thee of hypocriſie, and juſtifies thy ſincerity; this is a holy jealouſie, fear of falſeneſs to God, and that th<gap reason="illegible" resp="#APEX" extent="1 letter">
+                  <desc>•</desc>
+               </gap>ſe are not in ſincerity in thee.</p>
+            <p>For firſt, Theſe diſpoſitions in thee, de<g ref="char:EOLhyphen"/>ſires and endeavors, being ſigns or Grace, muſt of neceſſity be granted to be ſigns
+<pb facs="tcp:37272:22"/>
+of ſincerity; ſince, that that is no <hi>grace</hi> in truth, that is not ſincere.</p>
+            <p>Secondly, thy diligent ſearch and inqui<g ref="char:EOLhyphen"/>ry into thy ſelf, and jealouſie of thy ſelf, is an evident argument of the ſincerity of thy heart, and that thou wouldſt not de<g ref="char:EOLhyphen"/>ceive thy ſelf with flattery, falſe or vain hopes.</p>
+            <p>Another ſigne of true <hi>Grace,</hi> is, thy <milestone type="tcpmilestone" unit="unspecified" n="13"/> putting thy ſelf upon tryal of others, that thou didſt not reſt ſatisfied with thine own tryal of thy ſelf, but deſiredſt <hi>Gods</hi> Miniſters, whom thou didſt judg moſt ſincere, ſtrict and faithful; much preſſing them, to deal truly, plainly and freely with thee, without any flattery, as they will one day anſwer it to the great <hi>God</hi> of Heaven. And they bear witneſs to thee, my ſoul, from <hi>Gods</hi> own Word, of the much of <hi>Grace</hi> in thee. Thou didſt not account thy own poor weak endea<g ref="char:EOLhyphen"/>vors, <gap reason="illegible" resp="#APEX" extent="1 letter">
+                  <desc>•</desc>
+               </gap>o ſearch and try thy ſelf ſufficient, although thou didſt it to the utmoſt of thy power and ability; apprehending, that they might be more able to diſcover, ſome deceit of thy heart, that thou couldſt not finde out.</p>
+            <p>There follows another ſigne of <hi>ſaving</hi> 
+               <milestone type="tcpmilestone" unit="unspecified" n="14"/>
+               <pb facs="tcp:37272:22"/>
+               <hi>grace,</hi> that is yet farther, Thou haſt put thy ſelf upon the Lords own tryal. How often haſt thou in ſecret, gone to thy <hi>God</hi> on thy knees, and earneſtly intreated, and beſeeched him to ſearch thy heart and reins, thy moſt ſecret ſins, and intimate corruptions; and that he would ſhew thee thine iniquity, and cleanſe thee from thy ſin, not willing to hide any one from him? ſo <hi>David, Pſal.</hi> 39. 23, 24. <hi>Search me, O God, and know my heart; try me, and know my thoughts, and ſee if there be any wicked way in me.</hi>
+            </p>
+            <p>And the Lord hath at ſometimes made anſwer to thy heart, That he is thine, and thou art his, ſhewed ſome little glimpſe of his love and favor to thee, as it were at <gap reason="illegible" resp="#APEX" extent="1 span">
+                  <desc>〈…〉</desc>
+               </gap>, which hath been more joy of heart to thee, then if thou hadſt a thou<g ref="char:EOLhyphen"/>ſand worlds. Therefore<g ref="char:punc">▪</g> O my ſoul, praiſe thou this <hi>God</hi> of love; <hi>and all that is within me, praiſe his holy name;</hi> as <hi>Pſal.</hi> 103. 1.</p>
+            <p>Oh magnifie his <hi>free-grace, mercy,</hi> and <hi>love,</hi> that he hath given thee ſome love-tokens, as pledges of more hereafter. Oh my ſoul, raiſe up thy ſelf to ſound out the praiſes of the Lord; and all that is
+<pb facs="tcp:37272:23"/>
+within me, bleſs his great and glorious name: For truly, he hath delt bountifully with thee. Oh how can I, how ſhall I, expreſs my thankfulneſs unto him? Sure<g ref="char:EOLhyphen"/>ly, I will tell others, what the Lord hath done for my poor ſoul, that they alſo may truſt in him. For truly, its never in vain to ſeek and wait, and truſt in the Lord. Therefore, O my ſoul, do not be no more caſt down, and ſo diſquieted within me. <hi>Truſt in God, for I ſhall</hi> (that is, he will give me cauſe to) <hi>give him thanks; he is my preſent help, and my God.</hi> As <hi>Da<g ref="char:EOLhyphen"/>vid</hi> ſaid, ſo ſay I. Oh, that I could chide my ſoul out of its unquiet condition! ſee<g ref="char:EOLhyphen"/>ing I cannot, I will complain to <hi>God</hi> of it, and deſire him to do it for me, as <hi>David</hi> did, <hi>Pſal.</hi> 43. 6. <hi>O my God, my ſoul is caſt down;</hi> do thou raiſe and comfort it; for thou art able to do it. Though I cannot, I know thou Lord art able, to cheer and revive my drooping ſpirits; and thou wilt cauſe me to taſte how good thou art, that I may ſet forth thy raviſhing ſweet<g ref="char:EOLhyphen"/>neſs unto others, acquainting them, what great and unexpreſſible goodneſs, the Lord hath manifeſted to me. O dwell my ſoul a while here! ſuck more ſweetneſs
+<pb facs="tcp:37272:23"/>
+out of this <hi>love of God.</hi> O how great is this love of <hi>God,</hi> that pardons all thy ſins of nature, and cuſtome! o<gap reason="illegible" resp="#APEX" extent="1 letter">
+                  <desc>•</desc>
+               </gap> long con<g ref="char:EOLhyphen"/>tinuance, as well as later; great as well as ſmaller; of omiſſion, as well as com<g ref="char:EOLhyphen"/>miſſion; ſins of ignorance, and knowledg; ſecret ſins, and more open ſins, ſins in thought, word and act; ſins of thy youth and <gap reason="illegible" resp="#APEX" extent="2 letters">
+                  <desc>••</desc>
+               </gap>per age: He blots them out all, as a creditor that takes his pen and blots out all debts, leaves none to condemn. O the greatneſs of this <hi>infinite love of God<g ref="char:punc">▪</g>
+               </hi> O ſtand ſtill and behold, what <hi>love the Fa<g ref="char:EOLhyphen"/>ther</hi> hath ſhewed! wonder, and be a<g ref="char:EOLhyphen"/>mazed, and raviſhed with this <hi>love of all loves!</hi> O the riches of this <hi>love of God</hi> to thee! O admirable ſuperabundant, ſur<g ref="char:EOLhyphen"/>paſſing <hi>love!</hi> O excellent, precious, ſweet, unheard of <hi>love!</hi> O wonderful indeed, rare, unſpeakable, unutterable, unexpreſ<g ref="char:EOLhyphen"/>ſible, incomprehenſible <hi>love!</hi> O love everlaſting! one dram whereof, is better then life it ſelf, much ſweeter then the hony, and the hony comb.</p>
+            <p>Another Evidence of <hi>Grace,</hi> is, the <milestone type="tcpmilestone" unit="unspecified" n="15"/> ſweet intercourſe that hath been betwixt <hi>God,</hi> and thee my ſoul. Sometimes thy praying to him, his anſwering thee. <hi>Gods</hi>
+               <pb facs="tcp:37272:24"/>
+upholding and quieting thee ſometimes, in greateſt dangers; ſo <hi>Job</hi> and <hi>David.</hi> Therefore, ſtir up thy faith and live by it, for time to come. Thou haſt humbled thy ſoul, and God hath comforted thy ſoul. Now he hath this communion with none, but his own children.</p>
+            <p>Another Evidence of <hi>Grace,</hi> is, Thy <milestone type="tcpmilestone" unit="unspecified" n="16"/> hearty ſorrow and grief, for thy ſinning againſt mercies, and unthankfulneſs for them, and not profiting by them; ariſing from the conſideration of Gods good<g ref="char:EOLhyphen"/>neſs to thee, whom thereby thou doſt offend. Theſe are undoubted ſignes of <hi>Grace. Pſal.</hi> 51. 3, 4, 5, 6, 10. <hi>I acknow<g ref="char:EOLhyphen"/>ledg my tranſgreſſions, and my ſin is ever before me. Againſt thee, thee onely have I ſinned, and done evil in thy ſight, that thou migh<gap reason="illegible" resp="#APEX" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>est be juſtified, when thou ſpeakeſt, and be cleared when thou judg<g ref="char:EOLhyphen"/>eſt. Behold, I was ſhapen in iniquity: and in ſin did my mother conceive me. Behold, thou deſireſt truth in the inward parts; and in the hidden part, thou ſhalt make me to know wiſdom. Create in me a clean heart, O God, and renew a right spirit within me.</hi> Pſal. 19. 12, 13. <hi>Cleanſe me from my ſecret ſins; keep thy ſervant al<g ref="char:EOLhyphen"/>ſo,</hi>
+               <pb n="45" facs="tcp:37272:24"/>
+               <hi>that preſumptious ſins raign not over me.</hi> Rom. 7. 14, 15, 22, 23, 24. <hi>For we know that the Law is ſpiritual, but I am car<g ref="char:EOLhyphen"/>nal, ſold under ſin: For that which I do, I allow not; for what I would, that do I not; but what I hate, that do I: For I delight in the Law of God, after the in<g ref="char:EOLhyphen"/>ward man. But I ſee another law in my members, warring againſt the law of my minde; and bringing me into captivity to the law of ſin, which is in my members, O wretched man that I am, who ſhall de<g ref="char:EOLhyphen"/>liver me from the body of this death.</hi> 2 Cor. 7. <gap reason="illegible" resp="#APEX" extent="2 letters">
+                  <desc>••</desc>
+               </gap>. <hi>Godly ſorrow cauſeth repent<g ref="char:EOLhyphen"/>ance unto ſalvation, not to be repented of.</hi> Lord give me more of that ſorrow.</p>
+            <p>Now God reckons not thy failings, nor imputes thy corruptions to thee as thine; as by his Apoſtle, and his Spirit, ſpeaking in him, he aſſures thee, <hi>Rom.</hi> 7. 16, 17. <hi>If then I do that which I would not, I con<g ref="char:EOLhyphen"/>ſent unto the Law, that it is good. Now then it is no more I that do it, but ſin that dwelleth in me.</hi> But God accepts thy perſon and performances in his Son (as he did <hi>Paul</hi> there) though never ſo poor<g ref="char:punc">▪</g> and imperfect he regardeth not ſo much, what thou art or doſt, as what thou would<gap reason="illegible" resp="#APEX" extent="2 letters">
+                  <desc>••</desc>
+               </gap> be, and do.</p>
+            <p>
+               <pb facs="tcp:37272:25"/>
+Another evidence of Saving Grace, is, <milestone type="tcpmilestone" unit="unspecified" n="17"/> thy hearty and true love to the children of God for Grace-ſake, meerly for the good thou ſeeſt and beleeveſt to be in them, even thoſe who otherwiſe thou couldſt not love: this the Apoſtle <hi>John</hi> makes to be a ſigne, That <hi>we are tranſ<g ref="char:EOLhyphen"/>lated from death to life, becauſe we love the brethren,</hi> as 1 <hi>Joh.</hi> 3. 14. Therefore as it gives atteſtation for thee my Soul, ſo take thou the comfort of it from Gods own Word, and bleſs God with humble thankfulneſs for it: ſo <hi>David,</hi> Pſa. 119. 63. <hi>I am a companion to all them that fear thee, and keep thy precepts.</hi>
+            </p>
+            <p>Another ſigne of Grace, is this, Thy <milestone type="tcpmilestone" unit="unspecified" n="18"/> joy, and hope, and love is fixed and ſet not on things below, but on things above, in heaven; this argues that thou art riſen with Chriſt, and is that which may well be a pledg and earneſt to thee, that thou ſhalt one day appear in, and enjoy Glory with him: See <hi>Col.</hi> 3. 1, 2, 3, 4. <hi>If ye then be riſen with Chriſt, ſeek thoſe things which are above, where Chriſt ſitteth on the right hand of God: Set your affections on things above, not on things on the earth: for ye are dead, and</hi>
+               <pb n="47" facs="tcp:37272:25"/>
+               <hi>your life is hid with Chriſt in God<g ref="char:punc">▪</g> When Chriſt, who is our life, ſhall appear, then ſhall ye alſo appear with him in Glory.</hi> Yea, thy preſent diſ-eſteem and under<g ref="char:EOLhyphen"/>valuing of all worldly honors, profits pre<g ref="char:EOLhyphen"/>ferments or greatneſs, in the height of them, accounting them vain and of ſmall value to thee: And indeed let worldlings hunt and ſcramble for them that have no better portion in heaven; But thou my Soul, I bleſs God, ſeeſt better, ſweeter, and more precious and durable riches, ſpiritual things, that laſt for ever, that will ſatisfie the Soul: The love and favor of God, Heaven, and Glory everlaſting, that ſhall never periſh; and peace of con<g ref="char:EOLhyphen"/>ſcience and pardon of ſin, theſe indeed are well worth the deſiring and laboring for: Alas! the other cannot afford one jot of comfort, nor ſatisfie the conſcience when troubled for ſin, or when death cometh. Oh then nothing but Chriſt will ſerve the turn, or ſtand in ſtead I Therefore now labor to get Chriſt to be thine, and then he will not leave nor for<g ref="char:EOLhyphen"/>ſake thee, no not when thou comeſt to dye, and haſt moſt need of him, when friends and all creature-comforts will
+<pb facs="tcp:37272:26"/>
+leave us: And truly the greatneſs of the world doth oft ſteal away our hearts: Theſe are b<gap reason="illegible" resp="#APEX" extent="3 letters">
+                  <desc>•••</desc>
+               </gap>s and ſnares, both worldly credit and profit, I mean, that take many a ſoul in their nets, by means whereof many come to loſe their ſouls ere they are aware of it; becauſe they have no <gap reason="illegible" resp="#APEX" extent="1 word">
+                  <desc>〈◊〉</desc>
+               </gap> or elſe no hearts to look after their precious Souls, that muſt laſt for ever, after theſe bodies, with all the fading comforts here below, are gone and periſh<g ref="char:EOLhyphen"/>ed. We do or may ſee how fleeting and uncertain all creatures and all comforts here are; every day ſounds it in our ears, and continually our eyes may ſee it in the corps dayly carryed to their graves, and how <hi>riches take their wings &amp; f<gap reason="illegible" resp="#APEX" extent="2 letters">
+                     <desc>••</desc>
+                  </gap>e away,</hi> as <hi>Prov.</hi> 23. 5. I am ſure, within theſe few laſt years, God hath abundantly ſhewed, and fulfilled that Scripture. How many thouſands, not only of the meaner ſort, but of the great ones of the world, even now in theſe our days, worth very many hundreds a year, now have not bread for their families. Men get goods, that many times know not who ſhall enjoy them. But I will ſeek the Lord, for at his right hand are joys, and pleaſures for ever more,
+<pb n="49" facs="tcp:37272:26"/>
+that ſhall laſt to all eternity. My Soul, this thy ſetled reſolution is a pregnant teſtimony of thy love and affection to God; As alſo that God hath created a new heart, and put a new ſpirit within thee; and thou therefore art become a new creature.</p>
+            <p>Again, That change, which God hath <milestone type="tcpmilestone" unit="unspecified" n="19"/> wrought in thee, is not always alike; not at all times ſo lively: Neither yet again at all times alike, cold, dead, and dull; not al<g ref="char:EOLhyphen"/>ways dejected, not always comforted, becauſe as there is ſomething in thee ſpi<g ref="char:EOLhyphen"/>ritual, ſo alſo there is a part of fleſh in thee that wars againſt the Spirit: ſo is it with Gods Saints, with the Apoſtle <hi>Paul,</hi> &amp; ſo with <hi>David,</hi> and the reſt: and when thou confeſſeſt thy ſins to God in ſecret, thou bewaileſt thy ſins of thought, which never trouble Hypocrites or other ſort of ſinners.</p>
+            <p>Another ſigne of <hi>Gods love</hi> to thee, is this, Though thou haſt had ſore conflicts <milestone type="tcpmilestone" unit="unspecified" n="20"/> of long continuance, yet haſt thou not been overwhelmed, nor overcome, but upheld; and that thou uſeſt in them ſpi<g ref="char:EOLhyphen"/>ritual weapons, arguments from the power of <hi>God,</hi> and from the all-ſufficiency
+<pb n="50" facs="tcp:37272:27"/>
+and goodneſs of <hi>God,</hi> and thine own ex<g ref="char:EOLhyphen"/>perience of the ſame, having found the preſence of the Spirit of <hi>God</hi> in power ſo ſupporting thee, that thou haſt not fallen away, nor ſunk under them, but reſolved ſtill to truſt in <hi>God</hi> by his aſſiſtance, though he ſhould kill thee, as <hi>Job</hi> did, <hi>Job</hi> 13. 15. at that time when thou haſt had no pre<g ref="char:EOLhyphen"/>ſent comfort.</p>
+            <p>Another ſign of true Grace is, Thy <milestone type="tcpmilestone" unit="unspecified" n="21"/> ſearching and earneſt inquiry for what ſin God layeth his hand of affliction upon thee; and thy mourning, that thou art no more bettered by afflictions, for that is Gods end in afflicting his; yea, that thou deſireſt to be draw'd nearer to God by them, that thou mayſt ſay, that <hi>it was good for thee that thou wert afflicted: And before I was afflicted I went aſtray, but now I keep thy word:</hi> As <hi>David, Pſalm</hi> 119. 67. Lord make good to me that promiſe, That <hi>all things ſhall work together for good;</hi> and therefore afflicti<g ref="char:EOLhyphen"/>ons, <hi>to them that love God, to them who are called according to his purpoſe.</hi> Rom. 8. 28. Lord I would fain love thee, <hi>The de<g ref="char:EOLhyphen"/>ſire of my Soul is to thy name, and to the remembrance of thee: With my Soul</hi>
+               <pb n="51" facs="tcp:37272:27"/>
+               <hi>have I ſought or deſired thee in the night, and with my ſpirit within me will I ſeek thee in the morning.</hi> As <hi>Iſaiah</hi> 26. 8, 9. For <hi>whom have I in Heaven but thee, and I have deſired none in the Earth with thee.</hi> As <hi>Pſalm</hi> 73. 25. And thou hateſt ſin, as it is a breach of Gods Law.</p>
+            <p>Another Evidence of Gods Love to <milestone type="tcpmilestone" unit="unspecified" n="22"/> thee, That at ſuch times as thou haſt re<g ref="char:EOLhyphen"/>nued thy Faith in Chriſt, and again given up thy ſelf in more ſolemn manner wholy to him; God thereupon hath given eaſe to thy heart, which is a ſign that he accep<g ref="char:EOLhyphen"/>ted what thou gaveſt him, and that he wil not caſt thee away. <hi>I know whom I have believed, that he is able to keep that which I have committed to him,</hi> as 2 <hi>Tim.</hi> 1. 12. And I am perſwaded he will do ſo. And, my Soul, ſince thou haſt found favor in the eyes of God, that he hath been plea<g ref="char:EOLhyphen"/>ſed to manifeſt his Grace to thee, conſider what cauſe thou haſt of comfort and joy. Now that it may be aright conceived what Grace I mean; There is a two<g ref="char:EOLhyphen"/>fold meaning of the word <hi>Grace</hi> in Scrip<g ref="char:EOLhyphen"/>ture.</p>
+            <p>Firſt, It is taken for the gracious good Will or Favor of God, where by he is
+<pb n="52" facs="tcp:37272:28"/>
+pleaſed of his own free love, to accept of ſome in Chriſt for his own: This Divines call <hi>firſt Grace,</hi> becauſe it is the fountain of all other Grace, and the ſpring from whence they flow; and it's therefore cal<g ref="char:EOLhyphen"/>led <hi>Grace,</hi> becauſe it makes a man graci<g ref="char:EOLhyphen"/>ous with <hi>God;</hi> but this is only in <hi>God.</hi>
+            </p>
+            <p>Secondly, <hi>Grace</hi> is taken for the gifts of <hi>Grace,</hi> and they are of two ſorts; Common or ſpecial. Some are common to both Elect and Reprobates, Believers and Hypocrites; As Knowledg, a gift of prayer, and the like. Some are ſpecial <hi>Graces,</hi> and they are proper to the Saints, therefore called <hi>ſaving Graces;</hi> where<g ref="char:EOLhyphen"/>of, ſome are moſt principal, and abſolute<g ref="char:EOLhyphen"/>ly neceſſary unto Salvation; ſuch as is Faith, without which, none can be ſaved. And ſome other which are very comfort<g ref="char:EOLhyphen"/>able, as the feeling of Gods love, Peace of Conſcience, Joy in the Holy Ghoſt. Now if God have, firſt, of his gracious good will, and free love, accepted thee in Chriſt: And ſecondly, if he have given thee, any evidence of the ſame, by the ſaving graces of his holy Spirit wrought in thee, (which thou dareſt not deny;) then, O my ſoul, bleſs, praiſe, and magni<g ref="char:EOLhyphen"/>fie,
+<pb n="53" facs="tcp:37272:28"/>
+this God of love, for this his infinite, unutterable, and ſuperabounding love to thee. Hath he given thee any grace? Its becauſe he loves thee; and truly, no cauſe at all; why God ſhould love thee, as thou art in thy ſelf; but the clean contrary, rather to hate and abhor thee. But he looks upon thee, in his onely begotten, and dearly beloved ſon, the Lord Jeſus Chriſt, God-man; and ſeeing no other means in all the world to ſave thee, Gods love was ſo great, That he gave his onely begotten ſon to die for thee. And ſee here alſo, the exceeding great love of Chriſt to thee, that gave himſelf to dye for thee, took thy nature on him, ſtood in thy ſteed, fulfilled the Law, ſatisfied the juſtice of God for thy ſin. He ſuffered on the Croſs for thee, he procured pardon of ſin, ſalvation, and heaven for thee, he merited it all for thee; for his was wor<g ref="char:EOLhyphen"/>thy; his righteouſneſs is the meritorious cauſe of thy juſtification. He is now thy Redeemer, thy Advocate, that pleads thy cauſe for thee to God; he makes peace with God for thee; he <gap reason="illegible" resp="#APEX" extent="1 letter">
+                  <desc>•</desc>
+               </gap>its at the right hand of God the Father, and makes in<g ref="char:EOLhyphen"/>terceſſion for thee. God, is now become
+<pb n="54" facs="tcp:37272:29"/>
+of a juſt, ſevere, and angry Judg, a loving Father in him.</p>
+            <p>Therefore now my ſoul, receive all from him by promiſe, that ſhews his love as a Father. Oh, the free, and ſweet love, that is in an uncompelled promiſed <hi>I will love thee freely,</hi> ſaith the Lord, <hi>Hoſea</hi> 14. 4. Its free love indeed, in <hi>God</hi> to thee wards. Oh therefore, let this ſpecial free love of <hi>God,</hi> cauſe thee to ſtudy, how to return love to him, and live to him. Remember what he hath done for thee; how thy ſins wounded thy Saviour, peirced and crucified him, and nailed him to the croſs: how thy ſins made his moſt precious body, be overrun with his heart blood: how thy own be<g ref="char:EOLhyphen"/>traying and ſelling thy ſoul to ſin, and Satan, made him to be betrayed, and fold to ſuffer and die: yea, how he indured the torments of Hell, as it were, the moſt heavy and ſoreſt wrath of his Father for thy ſin. What, O what great and vehe<g ref="char:EOLhyphen"/>ment love, was in Chriſt thy Saviour, that made him ſweat drops of blood for thee my ſoul? Theſe are as ſo many cords of love, from Chriſt to thee, to cauſe thee to love Chriſt. Oh, that I could love thee,
+<pb n="55" facs="tcp:37272:29"/>
+my dear Saviour, as I ſhould. Its my hearts grief, that I cannot ſo love thee, as I would. Oh my dull, and drouſie ſoul, awake, rouze, and quicken up thy ſelf, and ſtand amazed at this love of Chriſt. Shall, or can ſo many ſweet expreſſions of ſuch unexpreſſible love of Chriſt to thee, paſs without Eccho? Shall every paſſage of Chriſt, from his birth to his death, all preach forth love to thee? And ſhall thankfulneſs be wanting in thee to<g ref="char:EOLhyphen"/>wards him? Shall his birth, work thy new birth; his croſs take away thy curſe? Shall his pains procure thee reſt? Shalt thou <gap reason="illegible" resp="#APEX" extent="1 letter">
+                  <desc>•</desc>
+               </gap>e cleared by his ſorrowful ſadneſs? Thou be made free by his bonds, happy by his miſery, fed by his hunger, refreſht by his wearineſs, rejoyced by his anguiſh? [Thou, my Soul] be excuſed before <hi>God,</hi> by his being accuſed before men? And ſhall not love fluſh and burn in my breſt to him? Oh, my <hi>God,</hi> do thou inflame my heart with this Love; kindle ſome further heat of Love in me; give me one dr<gap reason="illegible" resp="#APEX" extent="2 letters">
+                  <desc>••</desc>
+               </gap> more of it; draw up my Love, and moſt entire &amp; intimate affections. Shall I, as it were, freeze, for want of Love to my Sa<g ref="char:EOLhyphen"/>viour, when his Love is ſo hot to me?
+<pb n="54" facs="tcp:37272:30"/>
+               <gap reason="duplicate" extent="1 page">
+                  <desc>〈1 page duplicate〉</desc>
+               </gap>
+               <pb n="55" facs="tcp:37272:30"/>
+               <gap reason="duplicate" extent="1 page">
+                  <desc>〈1 page duplicate〉</desc>
+               </gap>
+               <pb n="56" facs="tcp:37272:31"/>
+Far be it from me. No, my loving Lord, I do love thee, I will love thee dearly: Oh help and enable me to love thee more. Oh my Soul, ſleep not under ſuch Com<g ref="char:EOLhyphen"/>forts, never forget ſuch love as this is; it is ſufficient to fill all thy ſences, all thine affections.</p>
+            <p>And yet ſee more, This Love is not on<g ref="char:EOLhyphen"/>ly for ſome years, but for eternity; <hi>Whom he once loves he loves to the end;</hi> as <hi>John</hi> 13. 1. He is a never failing Fountain of Love: Oh my Soul, therefore diſtruſt not, deſpair not of his Love; though thou art ſo full of ſins, which indeed of all things <hi>God</hi> hates moſt, yet behold the Love of <hi>God:</hi> all theſe, though ſo great, ſo many they cannot ſeparate between thee and thy <hi>God;</hi> but in and through Chriſt he ſtill loves thee, accepts thy perſon and ſer<g ref="char:EOLhyphen"/>vices.</p>
+            <p>It's not ſome ſlips or falls, that thou art overtaken withal, that are hated, reſolved againſt; not wittingly, willingly, delibe<g ref="char:EOLhyphen"/>rately committed, nor delighted in, nor al<g ref="char:EOLhyphen"/>lowed, but ſlipt, and fallen into unawares; Theſe cannot finite his infinite Love: He that dyed and bled for thee, will not loſe thee, now he hath done ſo much for thee:
+<pb n="57" facs="tcp:37272:31"/>
+No, thy ſins ſhall not eternally ſeparate <gap reason="illegible" resp="#APEX" extent="1 letter">
+                  <desc>•</desc>
+               </gap>h<gap reason="illegible" resp="#APEX" extent="1 letter">
+                  <desc>•</desc>
+               </gap>e from him: Sin may over-cloud the beams of his Love, but it ſhall not cut off the Being of his Love to thee; Be thou ſenſible of thy load of ſin, and thou art ca<g ref="char:EOLhyphen"/>pable of his Love. He that ſuffered not a cup of cold water to go unrewarded, will not permit a <gap reason="illegible" resp="#APEX" extent="1 letter">
+                  <desc>•</desc>
+               </gap>ar, for thy ſins, or for his Love, to go without reward: Let not the ſenſe of thy own wretched, miſerable, and undone condition diſcourage thee, not the fear of his diſpleaſure diſh<gap reason="illegible" resp="#APEX" extent="4 letters">
+                  <desc>••••</desc>
+               </gap>en thee, there is Love enough in him for all that: there is a Sun within theſe Clouds; there's Love within theſe frowns: Can Chriſt for<g ref="char:EOLhyphen"/>get thee, whoſe burning Love made him ſweat drops of blood for thee? No, he cannot, he will not; he may withdraw himſelf to ſharpen thy deſire; he may <gap reason="illegible" resp="#APEX" extent="2 letters">
+                  <desc>••</desc>
+               </gap>em loſt to inflame thee to ſeek mor<gap reason="illegible" resp="#APEX" extent="1 letter">
+                  <desc>•</desc>
+               </gap> 
+               <gap reason="illegible" resp="#APEX" extent="1 letter">
+                  <desc>•</desc>
+               </gap>ar<g ref="char:EOLhyphen"/>neſtly and inſtantly: It may be, my Soul, thou thinkeſt thou wanteſt him, becauſe thou deſireſt him, and doſt not ſenſibly, at ſome times feel thou haſt him, but know thou deſireſt him, becauſe thou loveſt him<hi>:</hi> you know it's ſo in natural love, and thou couldſt not love him, had he not firſt loved thee: But if thy ſinful neglects
+<pb n="58" facs="tcp:37272:32"/>
+have ſent him away from thee, let thy future diligence draw him home to thee. If thou haſt loſt him by ſin, ſeek him by true repentance, and he will be ſound of thee: He cannot be long abſent from a weeping Soul. He is Love, and that will yearn and melt when it ſees tears. If thy ſins fear the hand of Juſtice, <gap reason="illegible" resp="#APEX" extent="1 letter">
+                  <desc>•</desc>
+               </gap>o Love is a Sanctuary. If thy ſins make thee tremble before the Judg, Love is an Advocate; there's nothing but the Love of Chriſt to thee will do it for thee, and ſupply it to thee. Oh my dear-bought Soul, that coſt ſo precious a price as the very heart-blood of the Lord Jeſus Chriſt, wrap up thy ſelf in this conſideration, Want not com<g ref="char:EOLhyphen"/>fort while thou haſt or mayſt have enough, yea abundance; but make him, that is all in all, to be thy All, in all thy Wants and Neceſſities; Thou canſt want nothing but his <hi>AB<g ref="char:V">Ʋ</g>NDANT LOVE</hi> can ſupply thee.</p>
+            <p>Art thou cold in holy duties? His love can warm thee. Art thou flat in thy ſpirit? His love can rouze thee. Art thou ſtill hard under the means? His love
+<pb n="59" facs="tcp:37272:32"/>
+can ſoften and melt thee. Art thou live<g ref="char:EOLhyphen"/>leſs under ordinances? His love can quicken thee. Art thou incorrigible un<g ref="char:EOLhyphen"/>der afflictions? His love can bend thee. Art thou fallen by any ſin? His ardent love can raiſe thee, and revive thee, and make thee alive. Oh excellent comfort, joy unexpreſſible, and love ſurpaſſing! Oh thou who art Love it ſelf, who art only amiable, thou whom my Soul loveth, longeth for, and thirſteth after, panteth for, as the hunted Hart after the rivers of water! Oh <hi>God,</hi> my <hi>God,</hi> come thou, oh come thou, and do all this to my poor ſoul. Oh warm, heat, and inflame me with love to thee who hath ſo loved me. Oh melt my heart with thy love; re<g ref="char:EOLhyphen"/>vive and quicken me that am ſo dull and dead in my ſelf; ſhed thy love abroad in my heart more and more, which may enable me to expreſs ſincere, cordial and hearty love to thee, all the days of my life, by walking more cloſely with thee, and truſting more in thee, and reſting more on thee. [Oh my ſoul] make that good the Scripture ſaith, <hi>They that know thy</hi> 
+               <note place="margin">Pſa. 9. 10.</note> 
+               <hi>name will trust in thee.</hi> Its <hi>the work</hi> that <hi>God</hi> appoints thee to do, <hi>to beleeve</hi>
+               <pb n="60" facs="tcp:37272:33"/>
+               <hi>in Chriſt;</hi> as <hi>Joh.</hi> 6. 29. Alſo it's <hi>his com<g ref="char:EOLhyphen"/>mandment that we beleeve in the name of his Son Jeſus Chriſt;</hi> 1 <hi>Joh.</hi> 3. 23. And Chriſt himſelf calls thee, that art <hi>weary of, and heavy laden</hi> with the burden of thy ſins, to <hi>come</hi> to him, and he promiſeth to <hi>eaſe</hi> thee, or <hi>give thee reſt, Math.</hi> 11. 28. And he calls out to any that will come, <hi>Ho every one that thirſteth, come ye to to the waters, and ye that have no money; come, and buy, and eat yo, come buy wine and milk without money and without price, Iſa.</hi> 55. 1. And ſo <hi>Revel.</hi> 22. 17. <hi>Every one that thirſteth, let them come: and who ever will come and drink freely of the waters of life. And whoſoever comes to him he will not caſt off, Joh.</hi> 6. 37. And beſides all theſe offers of Chriſt and his command to beleeve, there's a<g ref="char:EOLhyphen"/>bundance of ſweet promiſes which <hi>God</hi> hath made to them that beleeve; as <hi>Joh.</hi> 3. 16. <hi>God ſo loved the world that he gave his only begotten Son, that whoſoever be<g ref="char:EOLhyphen"/>leeveth in him, ſhould not periſh, but have everlaſting life.</hi> Alſo Verſe 36. <hi>He that beleeveth on the Son hath everlasting life.</hi> He is as ſure, and as certain of it, as if he had it already in poſſeſſion. And
+<pb n="61" facs="tcp:37272:33"/>
+               <hi>God delights in them that hope in his mer<g ref="char:EOLhyphen"/>cy, Pſa.</hi> 147 11. And <hi>the Lord redeemeth the ſouls of his ſervants, and none that truſt in him ſhall periſh, Pſa.</hi> 34. 22. The Lord is a ſhield and a helper to all them that truſt in him.</p>
+            <p>Now <hi>God</hi> that made theſe rich, free, and precious promiſes, is Truth it ſelf, and therefore is [ſo] in performing all his promiſes. <hi>God is not as man, that <gap reason="illegible" resp="#APEX" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>e ſhould lye; neither as the ſon of man, that he ſhould repent. Hath he ſaid, and ſhall he not do it? And hath he ſpoken, and ſhall he not accompliſh it?</hi> O yes: as <hi>Numb.</hi> 23. 19.</p>
+            <p>Nay more, it's a part of his Covenant with his people; therefore (Oh my Soul) preſs the Lord with his Covenant<g ref="char:punc">▪</g> and he will perform it, even to thee; and ſo all his promiſes alſo. What good thing doſt thou or canſt thou want, either ſpi<g ref="char:EOLhyphen"/>ritual, temporal, or eternal, that God hath not promiſed to give thee? And what evil thing cauſt thou fear, or ſuffer, that God hath not promiſed to ſave thee from the evil of it at leaſt?</p>
+            <p>Are there not promiſes of giving thee Chriſt, and with him perfect Righteouſ<g ref="char:EOLhyphen"/>neſs,
+<pb n="62" facs="tcp:37272:34"/>
+and Juſtification? and in this life, ſuch a meaſure of Sanctification, as he will accept of, both all the neceſſary graces of the Spirit, and victory over every luſt, and perfect Sanctification after death; as alſo a ſufficient ability to every ſervice and duty; a paſsing by, and covering of all imperfections, and per<g ref="char:EOLhyphen"/>ſeverance to the end, and in the end, life everlaſting? Again, a ſanctified uſe of all Afflictions, either preſervation from, or deliverance out of them, in the beſt time; with ſuch Adminiſtration of all outward neceſſaries, as he ſhall ſee beſt, for his glory, and thy good. Aſsiſtance alſo in any ſufferings for his name, and a reward for them. And what now can be thy eſtate, in which thou mayeſt not hope yea, and joy in that hope too? as <hi>Rom.</hi> 12. 13.</p>
+            <p>Art thou under the guilt of ſome ſin, power of ſome luſt, want of ſome grace, abſence of Gods Spirit, or aſſurance of Gods favor; or under ſome perſecution, or outward affliction? Hath not God promiſed to ſupply that good, ſave from that evil? Why then my ſoul, ſhouldſt not thou joy in hope of it; or mayeſt
+<pb n="63" facs="tcp:37272:34"/>
+thou not have hope, ſince God hath pro<g ref="char:EOLhyphen"/>miſed it? And why doth not thy hope beget joy? in outward things it doth ſo.</p>
+            <p>Thou mayeſt ſee the full joyes of Hea<g ref="char:EOLhyphen"/>ven, Chriſts preſence, Gods face, perfect glory; and theſe all enjoyed by thee, all enjoyed, I ſay, by hope; and that by ſuch <hi>an hope as cannot fail,</hi> Rom. 5. 5. <hi>as makes not aſhamed.</hi> Its ſure, and pre<g ref="char:EOLhyphen"/>ſents the things hoped for; moſt ſure, for it hath the certainty of Faith for its ground, and that is the certainty of God himſelf. For Faith buildeth on Gods pro<g ref="char:EOLhyphen"/>miſes, and they are moſt certain; con<g ref="char:EOLhyphen"/>firmed by two immutable things.</p>
+            <p>Firſt, The Word of God.</p>
+            <p>Secondly, The Oath of God.</p>
+            <p>
+               <hi>Heb.</hi> 6. 16, 17, 18, 19. <hi>For men ſwear an oath for confirmation, it is then an end of all ſtrife. God willing more a<g ref="char:EOLhyphen"/>bundantly, to ſhew unto the heirs of pro<g ref="char:EOLhyphen"/>miſe, the immutability of his counſel, confirmed it by an oath: That by two im<g ref="char:EOLhyphen"/>mutable things, in which, it was impoſſi<g ref="char:EOLhyphen"/>ble for God to lie, we might have a ſtrong conſolation. Which Hope, we have as an Anchor of the ſoul, both ſure and ſted<g ref="char:EOLhyphen"/>faſt:</hi> Yea, thy Faith, and Hope hath, as
+<pb n="64" facs="tcp:37272:35"/>
+the immutability, ſo the fidelity, and truth of God to reſt upon: he can as well ceaſe to be God, as not to be ſo good as his Word It hath alſo the purpoſe and de<gap reason="illegible" resp="#APEX" extent="1 letter">
+                  <desc>•</desc>
+               </gap>ree of God; for Gods promiſes are onely the expreſsions of his purpoſe and decree. And as the Mercy of God, ſo it hath alſo the Merit of Chriſt; the effi<g ref="char:EOLhyphen"/>cacy of his Obedience, Paſsion, and In<g ref="char:EOLhyphen"/>terceſsion. And thus alſo its ſure; for Chriſt hath merited all good things, for thee, preſent and to come; whether it be p<gap reason="illegible" resp="#APEX" extent="1 letter">
+                  <desc>•</desc>
+               </gap>rdon of ſin, victory over ſin, ſubduing thy corruption; the favor of God, or what ever elſe thou wanteſt. And its neceſsitated now by Gods Juſtice alſo, That being ſatisfied by Chriſt, and his ſatisfaction by God accepted. Oh, why then ſhouldſt not thou joy in hope of all theſe? O conſider the ſtrength of all theſe Arguments, to cauſe and increaſe, Hope and Joy in thee. <hi>The joy of the Lord is our ſtrength, Neh<gap reason="illegible" resp="#APEX" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>.</hi> 8. 10. There<g ref="char:EOLhyphen"/>fore, O my ſoul, be thou no mo<gap reason="illegible" resp="#APEX" extent="1 letter">
+                  <desc>•</desc>
+               </gap>e ſo caſt down, for time to come; why art th<gap reason="illegible" resp="#APEX" extent="1 letter">
+                  <desc>•</desc>
+               </gap>u, o<gap reason="illegible" resp="#APEX" extent="1 letter">
+                  <desc>•</desc>
+               </gap> why ſhould<gap reason="illegible" resp="#APEX" extent="1 letter">
+                  <desc>•</desc>
+               </gap>ſt thou be ſo? O rouz<gap reason="illegible" resp="#APEX" extent="1 letter">
+                  <desc>•</desc>
+               </gap> up, and encourage thy ſelf in thy God; and ſtrengthen thy Faith by meditating,
+<pb n="65" facs="tcp:37272:35"/>
+on the truth and goodneſs of theſe pro<g ref="char:EOLhyphen"/>miſes; their excellencies, ſweetneſs, and uſefulneſs to thee, and by Reſiſ<gap reason="illegible" resp="#APEX" extent="1 letter">
+                  <desc>•</desc>
+               </gap>ing doubt<g ref="char:EOLhyphen"/>ings; and ſo ſtir up thy Faith in them.</p>
+            <p>This is the place of living by Faith<hi>:</hi> therefore, O my ſoul, live thou by Faith, (that is) finde out a promiſe of what ever thou wanteſt, and <gap reason="illegible" resp="#APEX" extent="1 letter">
+                  <desc>•</desc>
+               </gap>enture on it with e<gap reason="illegible" resp="#APEX" extent="1 letter">
+                  <desc>•</desc>
+               </gap>
+               <g ref="char:EOLhyphen"/>pectation, hoping above hope; and ſo fetch every thing thou needeſt f<gap reason="illegible" resp="#APEX" extent="1 letter">
+                  <desc>•</desc>
+               </gap>om the promiſes. O that tho<gap reason="illegible" resp="#APEX" extent="1 letter">
+                  <desc>•</desc>
+               </gap> wo<gap reason="illegible" resp="#APEX" extent="1 letter">
+                  <desc>•</desc>
+               </gap>ldſt ſing that triumphant Song, that the Apoſtle <hi>Pa<gap reason="illegible" resp="#APEX" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>l</hi> doth, <hi>Rom.</hi> 8. 38, 39. <hi>I am perſwaded, that n<gap reason="illegible" resp="#APEX" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>ither de<gap reason="illegible" resp="#APEX" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>th, nor life, nor angels, nor principalities, nor powers, nor thin<gap reason="illegible" resp="#APEX" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>s preſent, nor things to come, nor height, nor depth, nor any other creature, ſhall be able to ſeparate the<gap reason="illegible" resp="#APEX" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>, from the <gap reason="illegible" resp="#APEX" extent="2 letters">
+                     <desc>••</desc>
+                  </gap>ve of God, which i<gap reason="illegible" resp="#APEX" extent="1 letter">
+                     <desc>•</desc>
+                  </gap> in Chriſt Jeſus our Lord.</hi> O my ſoul, pray, and ſtrive ſo to do. O that thou couldſt ſay, as the ſame Apoſtl<gap reason="illegible" resp="#APEX" extent="1 letter">
+                  <desc>•</desc>
+               </gap> doth, <hi>Phil.</hi> 1. 23. <hi>I deſ<gap reason="illegible" resp="#APEX" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>re to be d<gap reason="illegible" resp="#APEX" extent="2 letters">
+                     <desc>••</desc>
+                  </gap>olved, and be with Chriſt, which is beſt of all.</hi> Truly, in the mean while. God alone is thy portion; for thou haſt taken him ſo to be. And if God alone be preſent with thee, its enough: He were not God, i<gap reason="illegible" resp="#APEX" extent="1 letter">
+                  <desc>•</desc>
+               </gap> he were not All-ſufficient.</p>
+            <p>
+               <pb n="66" facs="tcp:37272:36"/>
+Now thou haſt him in Faith, in pledges, and earneſt, yea, in poſſeſsion; why then doſt thou not enjoy him? why doſt thou not ſhake off that ſenceleſs, drowſineſs, which makes thy life unpleaſant, and un<g ref="char:EOLhyphen"/>comfortable; as though thou hadſt none of God? O leave off over-heavineſs, to thoſe that want God, to thoſe that either know him not, or know him diſpleaſed, not in Chriſt.</p>
+            <p>
+               <hi>Thou Lord ſhalt guide me with thy counſel, and afterwards bring me to glory,</hi> as <hi>Pſal.</hi> 73. 24, 25, 26, 28. <hi>Whom have I in Heaven but thee? and there is none upon earth, that I deſire beſides thee. My fleſh and my heart <gap reason="illegible" resp="#APEX" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>aileth, but God is the ſtrength of my heart, and my port<gap reason="illegible" resp="#APEX" extent="2 letters">
+                     <desc>••</desc>
+                  </gap>n for ever. It is good for me to draw neer to God. I have put my trust in the Lord God;</hi> and <gap reason="illegible" resp="#APEX" extent="1 letter">
+                  <desc>•</desc>
+               </gap>o, he anſwers, <hi>I will not leave thee, nor forſake thee; no never,</hi> as <hi>Heb.</hi> 13. 5. No, at no time. When thou art therefore in any ſtrait, or diſtreſs, that thou knoweſt not what to do; then go freely, and boldly to the throne of grace, in the Name, through the Mediation of Chriſt: There's a friend that will help thee, and relieve thee; ſuſtain, and de<g ref="char:EOLhyphen"/>liver
+<pb n="67" facs="tcp:37272:36"/>
+thee. When all other helps <gap reason="illegible" resp="#APEX" extent="1 letter">
+                  <desc>•</desc>
+               </gap>ail, yet I ſay, he will never fail thee; do I ſay ſo? nay verily, of a truth, it is God himſelf ſaith it, by his Spirit, ſpeaking in his Apoſtle. Therefore, build on it, <gap reason="illegible" resp="#APEX" extent="2 letters">
+                  <desc>••</desc>
+               </gap>ſt on it, as moſt certain: For as God is truth it ſelf, ſo are all his promiſes; let them be beleeved by thee. Preſs the Lord with his own word or promiſe; and he will perform them even to thee. Lord, thou haſt ſaid, that <hi>ſin ſhall not have dominion over us,</hi> as <hi>Rom.</hi> 6. 14. O let it not have have dominion over me, make good that word of thine to me. O when ſhall that time once be? O, that thou wouldſt this day, nay, this very hour, at once, kill all ſin in me. Lord thou haſt ſaid, <hi>Thou wilt</hi> 
+               <note place="margin">Mich. <gap reason="illegible" resp="#APEX" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>. 19</note> 
+               <hi>ſubdue our iniquities.</hi> O Lord, do thou it in me, for they are too ſtrong for me. Is any thing to hard for God? no ſure, ſure<g ref="char:EOLhyphen"/>ly thou haſt power enough to do it. And thou ſaidſt thou ar<gap reason="illegible" resp="#APEX" extent="1 letter">
+                  <desc>•</desc>
+               </gap> willing; O, what then hinders? O my God, let thy Spirit come, ſ<gap reason="illegible" resp="#APEX" extent="1 letter">
+                  <desc>•</desc>
+               </gap>nd it with power; and make its vertue to appear, in ſubduing all ſin in me; and raiſing me up to a new, a holy life; ſuch a life, as thou wouldſt have me live. Lord thou haſt ſaid, <hi>That we ſhall ſeek</hi>
+               <pb n="68" facs="tcp:37272:37"/>
+               <hi>thee with all our hearts; and that thou wilt befo<gap reason="illegible" resp="#APEX" extent="2 letters">
+                     <desc>••</desc>
+                  </gap>d of us, Jere.</hi> 29. 13, 14. O remember thine own everlaſting Cove<g ref="char:EOLhyphen"/>nant, made with thy <gap reason="illegible" resp="#APEX" extent="1 letter">
+                  <desc>•</desc>
+               </gap>ervants, <hi>Jere.</hi> 32. 40. <hi>That thou wilt put thy fear in their hearts, and they ſhall not depart from thee.</hi> And thou haſt ſaid, <hi>Thou wilt comfort us, and we ſhall be comforted, e<g ref="char:EOLhyphen"/>ven as one <gap reason="illegible" resp="#APEX" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>hom his mother comforts, I<gap reason="illegible" resp="#APEX" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>.</hi> 66. 13. Lord make good theſe promiſes, in which thou haſt cauſed thy ſervant to truſt. <hi>O keep thy ſervant, that <gap reason="illegible" resp="#APEX" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>o pre<g ref="char:EOLhyphen"/>ſumpt<gap reason="illegible" resp="#APEX" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>ous ſins prevail over me. And clea<gap reason="illegible" resp="#APEX" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>ſe me from <gap reason="illegible" resp="#APEX" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>y ſecret ſins; yea from all my ſins of thought; then ſhall I be <gap reason="illegible" resp="#APEX" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>pright, and I ſhall be inn<gap reason="illegible" resp="#APEX" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>cent, and free, from the great tranſgreſſions. Let the words of my mouth, and the meditations of my heart, be acceptable in thy ſight, O Lord, my Strength, and my Re<g ref="char:EOLhyphen"/>d<gap reason="illegible" resp="#APEX" extent="2 letters">
+                     <desc>••</desc>
+                  </gap>mer.</hi>
+            </p>
+         </div>
+         <div type="sermon">
+            <pb n="69" facs="tcp:37272:37"/>
+            <head>A SERMON Compoſed for the <hi>F<g ref="char:V">Ʋ</g>NERAL</hi> Of that pr<gap reason="illegible" resp="#APEX" extent="2 letters">
+                  <desc>••</desc>
+               </gap>ious Woman Mrs ANNE SKELTON, of S. <hi>Andr<gap reason="illegible" resp="#APEX" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>w<gap reason="illegible" resp="#APEX" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>
+               </hi> in <hi>Norw<gap reason="illegible" resp="#APEX" extent="3 letters">
+                     <desc>•••</desc>
+                  </gap>.</hi>
+            </head>
+            <epigraph>
+               <bibl>HO<gap reason="illegible" resp="#APEX" extent="3 letters">
+                     <desc>•••</desc>
+                  </gap> 13. 14.</bibl>
+               <q>O death! I will <gap reason="illegible" resp="#APEX" extent="2 letters">
+                     <desc>••</desc>
+                  </gap> thy plagues: O grave<g ref="char:punc">▪</g> I will be thy deſtraction!</q>
+            </epigraph>
+            <p>THis Chapter eaſily divideth it ſelf into three parts:</p>
+            <p n="1">1. A grievous Reprehenſion, to <hi>v.</hi> 10.</p>
+            <p n="2">
+               <pb n="70" facs="tcp:37272:38"/>
+2. A ſad Comination from the 10. to the 14. <hi>verſe.</hi>
+            </p>
+            <p n="3">3. A ſeaſonable Conſolation from the beginning of the <hi>verſe,</hi> where my Text is co<gap reason="illegible" resp="#APEX" extent="1 letter">
+                  <desc>•</desc>
+               </gap>ch<gap reason="illegible" resp="#APEX" extent="1 letter">
+                  <desc>•</desc>
+               </gap>, to the end of the Chapter. My Text begins the laſt part of the Chapter: The ſenſe of which is ambiguouſly con<g ref="char:EOLhyphen"/>troverted by Expoſitors. Some will have it to be a promiſe meerly relating to the deliverance of the Jews out of Captivity; in which ſenſe ſome conc<gap reason="illegible" resp="#APEX" extent="1 letter">
+                  <desc>•</desc>
+               </gap>ive the ſame phraſe (almoſt) taken, <hi>Iſai.</hi> 25. 8. But it is plain from the Apoſtles Commentary, 2 <hi>Cor.</hi> 15. 55. that it is not to be reſtrain<g ref="char:EOLhyphen"/>ed to that ſenſe. The Hebrews opinion is altogether for it; But Chriſtian Inter<g ref="char:EOLhyphen"/>preters, g<gap reason="illegible" resp="#APEX" extent="1 letter">
+                  <desc>•</desc>
+               </gap>ided by the Apoſtle, generally render it a prediction of the deliverance of the Elect from Sin, Death, and Hell, by the Lord Jeſus Chriſt. Some Controverſie there is yet amongſt them about the di<g ref="char:EOLhyphen"/>rect ſenſe, ſome amongſt which is <hi>Cal<g ref="char:EOLhyphen"/>vin,</hi> and <hi>Oecolampadius</hi> will have it to be a ſpiritual promiſe, but conditional; as if the ſenſ<gap reason="illegible" resp="#APEX" extent="1 letter">
+                  <desc>•</desc>
+               </gap> were this: If they had repent<g ref="char:EOLhyphen"/>ed and turned unto me, I had delivered them even from the gates of Death. But <hi>Jerom,</hi> with others, make it an abſolute
+<pb n="71" facs="tcp:37272:38"/>
+promiſe of a Redemption from from Sin and Death by Chriſt, and will make the words to be the ſpeech of Chriſt promi<g ref="char:EOLhyphen"/>ſing Redemption to his Elect. Joyn both together, and the ſenſe is perfectly this; Chriſt doth here promiſe Redemption to his Elect, under the type of the deliverance of the Children of <hi>Iſrael</hi> ou<gap reason="illegible" resp="#APEX" extent="1 letter">
+                  <desc>•</desc>
+               </gap> of <hi>Babylon.</hi> The deliverance of the Children of <hi>Iſrael</hi> out of <hi>Babylon</hi> was <gap reason="illegible" resp="#APEX" extent="1 letter">
+                  <desc>•</desc>
+               </gap>ypical: That's pro<g ref="char:EOLhyphen"/>miſed here, <hi>viz.</hi> That after a certain time he would redeem them out of the power of the Babyloniſh Captivity, where they ſhould lye as buried for a while. But the Antitype was the <hi>Elect of God,</hi> 
+               <gap reason="illegible" resp="#APEX" extent="1 letter">
+                  <desc>•</desc>
+               </gap>o whom Chriſt promiſeth a Redemption from Death and the Grave. <hi>[I,]</hi> I, the Lord Jeſus Chriſt, Jehovah, the ſecond Perſon in the Trinity. <hi>[Will Ranſom,]</hi> Redeem: It ſignifies to deliver out of ſome bon<g ref="char:EOLhyphen"/>dage, by vertue of a price paid by another for his friend. I will pay the debt due to my Fathers Juſtice and Wrath, and buy them out of their natural ſlavery. <hi>[Them]</hi> The Elect, in a ſpiritual ſenſe; the Jews, in a plain ſenſe; as the words are a pro<g ref="char:EOLhyphen"/>miſe of a deliverance out of the Babylo<g ref="char:EOLhyphen"/>niſh Captivity. <hi>[From the hand of the</hi>
+               <pb n="72" facs="tcp:37272:39"/>
+               <hi>Grave,]</hi> that is the power of the Grav<gap reason="illegible" resp="#APEX" extent="1 letter">
+                  <desc>•</desc>
+               </gap>: To be in ones hand, is to be in their pow<g ref="char:EOLhyphen"/>er; therefore our Tranſlation readeth it power. <hi>[Of the Grave,]</hi> The Ba<gap reason="illegible" resp="#APEX" extent="1 letter">
+                  <desc>•</desc>
+               </gap>yloniſh Grave, if you look upon the promiſe, as meerly reſpecting them. 1. Sin, 2. Death, and 3. Hell, are all here underſtood: So the Apoſtle applies it, 1. <hi>Cor.</hi> 15. Thus Chriſt hath fulfilled it for his Saints. <hi>[I will redeem th<gap reason="illegible" resp="#APEX" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>m from death.]</hi> It is but a repetition of wh<gap reason="illegible" resp="#APEX" extent="1 letter">
+                  <desc>•</desc>
+               </gap>t was promiſed be<g ref="char:EOLhyphen"/>fore: The word is doubled for it is cer<g ref="char:EOLhyphen"/>tain. <hi>[O death!]</hi> Chriſt ſpeaks O death, Spiritual, Temporal, Eternal: <hi>[I will be thy plagues,] O grave, I will be thy de<g ref="char:EOLhyphen"/>ſtruction!]</hi> I, Jeſus Chriſt, <hi>[will be,]</hi> by my coming, and dying, and riſing again, <hi>[will be,]</hi> in time; 'tis yet but a little while, but I will come and tread upon thy neck, <hi>[thy plagues,] Jerom</hi> and <hi>Am<g ref="char:EOLhyphen"/>broſe</hi> read <gap reason="illegible" resp="#APEX" extent="1 letter">
+                  <desc>•</desc>
+               </gap>t <gap reason="foreign">
+                  <desc>〈 in non-Latin alphabet 〉</desc>
+               </gap>, thy contention. I will, engage in the quarrel betwixt thee, and my elected ones. Death had a quarrel a<g ref="char:EOLhyphen"/>gainſt all the children of <hi>Adam,</hi> by vertue of that original word, <hi>In the day that thou <gap reason="illegible" resp="#APEX" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>ateſt thereof thou ſhalt ſurely dye.</hi> O<g ref="char:EOLhyphen"/>thers read it, <hi>[Plagues or Deſtruction<g ref="char:punc">▪</g>]</hi> The difference ariſeth from the ne<gap reason="illegible" resp="#APEX" extent="1 letter">
+                  <desc>•</desc>
+               </gap>rneſs
+<pb n="73" facs="tcp:37272:39"/>
+of kin that is betwixt the Heb. words, ſignifying Contention, and the Hebr<gap reason="illegible" resp="#APEX" extent="1 letter">
+                  <desc>•</desc>
+               </gap>w word, ſignifying Plagues. The Greeks read it <gap reason="foreign">
+                  <desc>〈 in non-Latin alphabet 〉</desc>
+               </gap>, Victory: I will be thy Co<gap reason="illegible" resp="#APEX" extent="1 letter">
+                  <desc>•</desc>
+               </gap>
+               <g ref="char:EOLhyphen"/>
+               <gap reason="illegible" resp="#APEX" extent="1 letter">
+                  <desc>•</desc>
+               </gap>ueror. Others read it <gap reason="foreign">
+                  <desc>〈 in non-Latin alphabet 〉</desc>
+               </gap>, Puniſhment, juſt Puniſhment, &amp;c. I will be thy <gap reason="illegible" resp="#APEX" extent="1 letter">
+                  <desc>•</desc>
+               </gap>in<gap reason="illegible" resp="#APEX" extent="1 letter">
+                  <desc>•</desc>
+               </gap> with Juſtice. <hi>[O grave. I will be thy de<g ref="char:EOLhyphen"/>ſtruction.]</hi> Thy ſting, thy cutting off. Here Chriſt ſaith, I will be. The Apoſtle tri<g ref="char:EOLhyphen"/>umpheth, as of the thing done, 2 <hi>Cor.</hi> 15. 55. <hi>O death, where's thy ſting? &amp;c.</hi> Chriſt having then dyed, conquered death, riſen, and aſc<gap reason="illegible" resp="#APEX" extent="1 letter">
+                  <desc>•</desc>
+               </gap>nded. You have now the ſenſe.</p>
+            <p>If you look on the whole Verſe, you have in it theſe three parts.</p>
+            <list>
+               <item>1. A redemption promiſed, in which you may note;
+<list>
+                     <item>1. The Redeem<gap reason="illegible" resp="#APEX" extent="2 letters">
+                           <desc>••</desc>
+                        </gap>; <hi>I Christ.</hi>
+                     </item>
+                     <item>2. The Act; <hi>I will redeem.</hi>
+                     </item>
+                     <item>3. The Redeemed; <hi>Them.</hi>
+                     </item>
+                     <item>4. The time; <hi>I will.</hi>
+                     </item>
+                     <item>5. The ſlavery; <hi>Death, the Grave.</hi>
+                     </item>
+                  </list>
+               </item>
+               <item>2. The manner of this redemption:
+<list>
+                     <item>1. By himſelf; I being <gap reason="illegible" resp="#APEX" extent="2 letters">
+                           <desc>••</desc>
+                        </gap>aths <gap reason="illegible" resp="#APEX" extent="1 letter">
+                           <desc>•</desc>
+                        </gap>uine.</item>
+                     <item>2. With a price paid; I will redeem.</item>
+                     <item>3. The confirmation of it: <hi>Repe<gap reason="illegible" resp="#APEX" extent="3 letters">
+                              <desc>•••</desc>
+                           </gap>
+                           <g ref="char:EOLhyphen"/>ance ſhall be hi<gap reason="illegible" resp="#APEX" extent="1 letter">
+                              <desc>•</desc>
+                           </gap> from mi<gap reason="illegible" resp="#APEX" extent="2 letters">
+                              <desc>••</desc>
+                           </gap> eyes.</hi> I cannot
+<pb n="74" facs="tcp:37272:40"/>
+change or eat my words; I have ſaid it, and it ſhall be done.</item>
+                  </list>
+               </item>
+            </list>
+            <p>My Text contains the ſecond part, where you have Chriſt threatning death to be its plagues, and the grave to be its deſtruction. The Doctrine is ſhortly this.</p>
+            <p>Doct. <hi>Christ for his Believers is be<g ref="char:EOLhyphen"/>come deaths plague, and the graves de<g ref="char:EOLhyphen"/>ſtruction.</hi>
+            </p>
+            <p>There is no change in the Doctrine from the very words of the Text; only what Chriſt here ſpake in the future tenſe, <hi>I will,</hi> I have put in the preterperfect tenſe, (as the Apoſtle.) Chriſt propheſied his coming by <hi>Hoſea,</hi> we preach the pro<g ref="char:EOLhyphen"/>pheſie fulfilled.</p>
+            <p>Two things would here for Explication be enquired into.</p>
+            <list>
+               <item>1. What death Chriſt is a plague to.</item>
+               <item>2. How Chriſt became the plague of death, and the deſtruction of the grave to his people.</item>
+            </list>
+            <p>The diſtinction of death is ordinarily known.</p>
+            <list>
+               <item>1. <hi>Spiritual;</hi> which is the ſouls death in ſin: We were all of us dead in ſins.</item>
+               <item>2. <hi>Temporal;</hi> which is the ſeparation of the ſoul from the body.</item>
+               <item>
+                  <pb n="75" facs="tcp:37272:40"/>
+3. The third is <hi>Eternal;</hi> The death of body and ſoul for ever.</item>
+            </list>
+            <p>The firſt conſiſts in the ſeparation of the ſoul from God: The ſecond in the ſeparation of the body from the ſoul: The third in the ſeparation of both bo<g ref="char:EOLhyphen"/>dy and ſoul from the preſence of God for ever. If it be askt concerning which of theſe Chriſt ſpeaks, and to which of theſe Chriſt is a plague and deſtruction.</p>
+            <p>I ſhortly anſwer to all: Firſt, he is a <milestone type="tcpmilestone" unit="unspecified" n="1"/> plague to the <hi>Spiritual Death,</hi> a deſtru<g ref="char:EOLhyphen"/>ction to that grave. <hi>Epheſ.</hi> 2. 1, 5. <hi>You hath be quickened, who were dead in treſ<g ref="char:EOLhyphen"/>paſſes and ſins.</hi> By reaſon of <hi>Adams</hi> fall all the elect became dead in ſins, and <hi>chil<g ref="char:EOLhyphen"/>dren of wrath by nature, as well as o<g ref="char:EOLhyphen"/>thers.</hi> Chriſt coming quickens the dead ſoul with his enlivening Grace. <hi>Ezek.</hi> 16. 6. <hi>I ſaid unto thee, while thou wert in thy blood live; yea, I ſaid unto thee, while thou wert in thy blood live.</hi> O death! Spiritual Death, he hath been, he is, he will dayly be thy plague.</p>
+            <p>Secondly, He is a plague to <hi>Temporal</hi> 
+               <milestone type="tcpmilestone" unit="unspecified" n="2"/> 
+               <hi>Death:</hi> Indeed it is the laſt enemy that ſhall be put under the Conquerors feet, before he reſigneth up the Kingdom to his Father.</p>
+            <p>
+               <pb n="76" facs="tcp:37272:41"/>Firſt, <hi>He is a plague to it;</hi> for he hath delivered us out of the power of it, he hath made the door ſtand meerly by the latch: When <hi>Adam</hi> had his <hi>mittimus</hi> made to the Gaol of the Grave, Death turns the lock, bolts up the door, when he had gotten him but once in his cuſto<g ref="char:EOLhyphen"/>dy, never intending to part with the pri<g ref="char:EOLhyphen"/>ſoner more: Chriſt ſeeing the Gaoler ſo confident in his Tyranny, Well, ſaith he, let him be good of his office, for <hi>I will ranſom them fro<g ref="char:cmbAbbrStroke">̄</g> tho power of the grave;</hi> I will make Death know, he is but to keep his priſoner <hi>till further order.</hi> In<g ref="char:EOLhyphen"/>deed this was decretally done, before the beginning of the world, by Chriſts Word given to his Father: and Chriſt ever and anon, in the time of the Jews, let his elect<g ref="char:EOLhyphen"/>ed ones know there was an evaſion out of the grave, by the reſurrection of ſeve<g ref="char:EOLhyphen"/>ral perſons; but the time of Chriſts actual and full becoming the plague of death, and the deſtruction of the grave, was when he dyed, and roſe, and led captivity captive. Thus Chriſt is the plague of Death, and the deſtruction of the grave, for all men and women in the world; but to his Elect, only for good, there is
+<pb n="77" facs="tcp:37272:41"/>
+an eſcape-way out of the deepeſt grave already; and at the laſt day there ſhall be an actual freedom.</p>
+            <p>Secondly, He is to Beleevers the plague of this Death, and the deſtruction of this Grave, <hi>by taking away the cauſe of fear of this death out of all their hearts,</hi> they can ſtand upon the top of the grave, and ſing, <hi>O Death, where is thy ſti<gap reason="illegible" resp="#APEX" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>g<g ref="char:punc">▪</g> O Hell, where is thy victory?</hi> The E<g ref="char:EOLhyphen"/>lect (<gap reason="illegible" resp="#APEX" extent="1 letter">
+                  <desc>•</desc>
+               </gap>ad it no<gap reason="illegible" resp="#APEX" extent="1 letter">
+                  <desc>•</desc>
+               </gap> been for Chriſt) for <gap reason="illegible" resp="#APEX" extent="1 letter">
+                  <desc>•</desc>
+               </gap>ea<gap reason="illegible" resp="#APEX" extent="1 letter">
+                  <desc>•</desc>
+               </gap> of death <hi>had all their life time been ſubje<gap reason="illegible" resp="#APEX" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>t to bondage<g ref="char:punc">▪</g> Heb.</hi> 2. 15. <hi>
+                  <gap reason="illegible" resp="#APEX" extent="2 letters">
+                     <desc>••</desc>
+                  </gap>raſ<g ref="char:EOLhyphen"/>much therefore as the children were par<g ref="char:EOLhyphen"/>takers of fleſh and blood, he alſo took part with them,</hi> v. 1<gap reason="illegible" resp="#APEX" extent="1 letter">
+                  <desc>•</desc>
+               </gap>. <hi>that <gap reason="illegible" resp="#APEX" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>e might d<gap reason="illegible" resp="#APEX" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>
+                  <g ref="char:EOLhyphen"/>liver them.</hi> The Saints of God can ſtand over the grave and ſay, <hi>Surely the bit<g ref="char:EOLhyphen"/>terneſs of death is paſt,</hi> though they can<g ref="char:EOLhyphen"/>not ſay the time o<gap reason="illegible" resp="#APEX" extent="1 letter">
+                  <desc>•</desc>
+               </gap> death is paſt.</p>
+            <p>3<hi rend="sup">d</hi>ly, Chriſt to his Elect is the plague of Death temporal, <gap reason="illegible" resp="#APEX" extent="1 letter">
+                  <desc>•</desc>
+               </gap>n that <hi>he hath taken away the final evil of it,</hi> and hath made that which would have been thei<gap reason="illegible" resp="#APEX" extent="1 letter">
+                  <desc>•</desc>
+               </gap> ma<gap reason="illegible" resp="#APEX" extent="2 letters">
+                  <desc>••</desc>
+               </gap>e<gap reason="illegible" resp="#APEX" extent="1 letter">
+                  <desc>•</desc>
+               </gap> for <gap reason="illegible" resp="#APEX" extent="2 letters">
+                  <desc>••</desc>
+               </gap>ine and evil, to be their deſire and ſervant for good. Death thought to have been go<gap reason="illegible" resp="#APEX" extent="1 letter">
+                  <desc>•</desc>
+               </gap>ler of the bodies of Gods Saints, till the day of judgment, and then Hell
+<pb n="78" facs="tcp:37272:42"/>
+ſhould have had them delivered up. God ſays, No; their bodies ſhall be in thy cuſtody, but thou ſhalt deliver them up refined to Glory, to Eternal Reſt, to be with me for ever: So that now it is the voyce of Gods child, <hi>I deſire to be diſſol<g ref="char:EOLhyphen"/>ved, and to be with Chriſt:</hi> And <hi>in this we groan earneſtly, being burthened, not for that we would be unclothed, but clo<g ref="char:EOLhyphen"/>thed upon, that mortality may be ſwal<g ref="char:EOLhyphen"/>lowed up of life.</hi> Death is eaſe now to the Saints of God, the hard ſtones are but pillows of doun: The grave, from a place of terror, is turned into a retiring houſe, from the buſie ſweating world. <hi>O death!</hi> Chriſt is thy plague: <hi>O grave! <gap reason="illegible" resp="#APEX" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>e is thy deſtruction.</hi>
+            </p>
+            <p>Thirdly, Chriſt is the plague and de<g ref="char:EOLhyphen"/>ſtruction of Eternal Death: they ſhall <milestone type="tcpmilestone" unit="unspecified" n="3"/> never taſte of that; Beleevers <hi>are paſt from death to life;</hi> He that is the <hi>Amen, that was dead and is alive, yea alive for ever more,</hi> he hath the keyes of Hell and Death, <hi>Rev.</hi> 1. 18. Chriſt is the Angel that came down from heaven, <hi>R<gap reason="illegible" resp="#APEX" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>v.</hi> 20. 1. <hi>that hath the key of the bottomleſs pit; and he that hath a part in the firſt reſur<g ref="char:EOLhyphen"/>rection, on him the ſecond death hath no</hi>
+               <pb n="79" facs="tcp:37272:42"/>
+               <hi>power: Rev.</hi> 2. 11. Overcoming Saints ſhall not be hurt by the ſecond death: Now <hi>this is our victory that overcometh the world, even our faith:</hi> Beleevers are Conquerors in and through Chriſt, and Chriſt hath conquered hell for them; for the lake which burns with fire and brim<g ref="char:EOLhyphen"/>ſtone is the ſecond death, <hi>Rev.</hi> 21. 8. Chriſt now hath ſaved them from this; this hath no power over them. O death! he is thy plague: O grave! he is thy de<g ref="char:EOLhyphen"/>ſtruction. Thus I have opened the firſt, and ſhewed you what Death, what Grave Chriſt is a plague to.</p>
+            <p>Now let me ſhew you in the next place, How Chriſt is the plague of death &amp; the grave of deſtruction? To this I ſhall anſwer in three or four particulars briefly.</p>
+            <list>
+               <item>1. By his enlivening Spirit.</item>
+               <item>2. By his dying Love,</item>
+               <item>3. By his riſing Power.</item>
+               <item>4. By his aſcending and reigning Glory.</item>
+            </list>
+            <p>Firſt, <hi>By his enlivening power:</hi> Thus he is the plague of ſpiritual death; he comes and ſees the ſoul that he hath cho<g ref="char:EOLhyphen"/>ſen, dead in <gap reason="illegible" resp="#APEX" extent="1 letter">
+                  <desc>•</desc>
+               </gap>reſpaſſes and ſins; it neither ſpeaks, nor hears, nor ſees, nor moves
+<pb n="80" facs="tcp:37272:43"/>
+ſpiritually; it is more cold then the fro<g ref="char:EOLhyphen"/>zen earth: Chriſt breathes into it the breath of life. <hi>The Son quickeneth whom</hi> 
+               <note place="margin">Joh 5: 21. Iohn 6. 63</note> 
+               <hi>he will.</hi> Chriſt doth it meritoriouſly: The Spirit doth it inſtrumentally; <hi>Joh.</hi> 6. 63. <hi>It is the Spirit that quickeneth:</hi> He maketh the dead ſoul to begin to hear the voyce of the Son of God, and live; to begin to reliſh heavenly things, and ſavor things which are above; to ſtand upon its legs, and walk a little in the ways of godlineſs.</p>
+            <p>Secondly, By his dying Love: Chriſts death was that which deſtroyed death; He was the firſt of thoſe that roſe from the dead, by power from himſelf to live for ever: Chriſt dying ſhewed the grave his power: Chriſts dying was the plague of death:</p>
+            <p n="1">1. <hi>In his own example:</hi> He brake through the bol<gap reason="illegible" resp="#APEX" extent="1 letter">
+                  <desc>•</desc>
+               </gap>ed door of the Grave, though the ſtone was rolled and ſealed: He was he <hi>that was dead, and is alive; yea, that lives for evermore.</hi> O Death! he was thy plague in himſelf; he was <note place="margin">
+                  <gap reason="illegible" resp="#APEX" extent="1 letter">
+                     <desc>•</desc>
+                  </gap> P<gap reason="illegible" resp="#APEX" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>t. 3 18</note> dead and is alive, thy lock could not keep him.</p>
+            <p n="2">2. <hi>In the merit of it:</hi> Chriſts death in
+<pb n="81" facs="tcp:37272:43"/>
+the merit of it, was the plague of death, and the deſtruction of the grave: <hi>The ſting of death is ſin,</hi> (ſaith the Apoſtle.) Chriſt dying ſatisfi<gap reason="illegible" resp="#APEX" extent="1 letter">
+                  <desc>•</desc>
+               </gap>d his Fath<gap reason="illegible" resp="#APEX" extent="1 letter">
+                  <desc>•</desc>
+               </gap>rs Wrath and Juſtice. So that though death lives for a while, yet he lives without a ſting; it can do no member of Chriſt hurt; and it ſhall not live long neither: for though it be <hi>the laſt en<gap reason="illegible" resp="#APEX" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>my that ſhall be deſtroy<g ref="char:EOLhyphen"/>ed,</hi> yet it ſhall dye too, 1 <hi>Cor.</hi> 15. 26. Chriſts death was the graves deſtruction, it deſtroyed ſins life, which is the ſpiritual death; for Chriſt having dyed, ſin is dead too, <hi>Rom.</hi> 6. 6. <hi>Our old man is cruci<gap reason="illegible" resp="#APEX" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>ied wi<gap reason="illegible" resp="#APEX" extent="2 letters">
+                     <desc>••</desc>
+                  </gap> him, that the body of ſin might from henceforth be d<gap reason="illegible" resp="#APEX" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>ſtroyed, that hence<g ref="char:EOLhyphen"/>
+                  <gap reason="illegible" resp="#APEX" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>orth we ſhould not ſerve ſin.</hi> Verſ. 9, 10. <hi>In th<gap reason="illegible" resp="#APEX" extent="2 letters">
+                     <desc>••</desc>
+                  </gap> he dyed, he dyed once unto ſin.</hi> Verſ. 11. <hi>Likewiſe r<gap reason="illegible" resp="#APEX" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>ckon you your ſelves to be dead indeed unto ſin.</hi> By Chriſts d<gap reason="illegible" resp="#APEX" extent="1 letter">
+                  <desc>•</desc>
+               </gap>ath, temporal death is deſtroyed, in the power of it, for he himſelf <hi>led captivity captive:</hi> In the fear or it, <hi>F<gap reason="illegible" resp="#APEX" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>raſmuch as <gap reason="illegible" resp="#APEX" extent="2 letters">
+                     <desc>••</desc>
+                  </gap>e children were partakers of fleſh and blood, <gap reason="illegible" resp="#APEX" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>e alſo himſelf took part with them, that through death <gap reason="illegible" resp="#APEX" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>e <gap reason="illegible" resp="#APEX" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>ight de<g ref="char:EOLhyphen"/>ſtroy him that had the power of d<gap reason="illegible" resp="#APEX" extent="2 letters">
+                     <desc>••</desc>
+                  </gap>th, <gap reason="illegible" resp="#APEX" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>
+                  <g ref="char:EOLhyphen"/>ven the devil: And deliver them that</hi>
+               <pb facs="tcp:37272:44"/>
+               <hi>through fear of death were all their life time ſubject to bondage, Heb.</hi> 2. 13, 14. In the bitterneſs of it; for now we know that while we are at home in the body, we are abſent from the Lord. O death! Chriſt dying hath been thy death; And ſo for eternal death: for he hath, by his death ſatisfied, ſo ſatisfied his Fathers Wrath, that now the ſecond death ſhall have no power over us.</p>
+            <p>
+               <gap reason="illegible" resp="#APEX" extent="1 letter">
+                  <desc>•</desc>
+               </gap>ly. Chriſt is the plague of death, <hi>by his riſing power:</hi> The power of Chriſts Re<g ref="char:EOLhyphen"/>ſurrection is great upon death: There<g ref="char:EOLhyphen"/>fore the Apoſtle tells us, <hi>Rom.</hi> 6. 4. <hi>That like as Chriſt was raiſed from the dead, by the glory of his Father, even ſo alſo</hi> 
+               <note place="margin">Col. 3. 1.</note> 
+               <hi>we ſhould walk in newneſs of life, being firſt planted into the likeneſs of his death, then of his reſurrection,</hi> Verſ. 5. Chriſt riſing in himſelf was the plague of tem<g ref="char:EOLhyphen"/>poral death; Dying, he was a ſervant to it; Riſing, he became the Conqu<gap reason="illegible" resp="#APEX" extent="1 letter">
+                  <desc>•</desc>
+               </gap>ror over it: <hi>Being the firſt fruits of them that ſleep in the grave,</hi> 1 <hi>Corinth.</hi> 15. 20. And riſing, he became the plague of death <hi>for his people:</hi> His Reſurrection was but a type and a propheſie, that thoſe that that ſleep in the duſt ſhall have a morning
+<pb n="83" facs="tcp:37272:44"/>
+to awake in: this the Apoſtle fully proves in the former part of his 15. Chap. of the firſt Epiſtle to the <hi>Corinthians;</hi> it is a pillar upon which all the Saints of God ought to build their faith, in the Article of the reſurrection of the body<hi>:</hi> And from that premiſe, an undenyable argument may be brought to confirm ou<gap reason="illegible" resp="#APEX" extent="1 letter">
+                  <desc>•</desc>
+               </gap> Faith in the reſurrection of the body, as the A<g ref="char:EOLhyphen"/>poſtle diſputes there: yea and his reſur<g ref="char:EOLhyphen"/>rection was the plague of eternal death: for by his reſurrection the love declared in his death b<gap reason="illegible" resp="#APEX" extent="1 letter">
+                  <desc>•</desc>
+               </gap>came victorious, and his death m<gap reason="illegible" resp="#APEX" extent="3 letters">
+                  <desc>•••</desc>
+               </gap>orious: it would have a<gap reason="illegible" resp="#APEX" extent="1 letter">
+                  <desc>•</desc>
+               </gap>gued, that the d<gap reason="illegible" resp="#APEX" extent="1 letter">
+                  <desc>•</desc>
+               </gap>bt had not been payd to infinite Juſ<gap reason="illegible" resp="#APEX" extent="1 letter">
+                  <desc>•</desc>
+               </gap>ice, if the priſoner had not been ſe<gap reason="illegible" resp="#APEX" extent="1 letter">
+                  <desc>•</desc>
+               </gap> 
+               <gap reason="illegible" resp="#APEX" extent="1 letter">
+                  <desc>•</desc>
+               </gap>t liberty by the reſurrection of his body: Now <hi>who ſhall lay any thing to the charge of Gods elect? It is God that ju<g ref="char:EOLhyphen"/>ſtifieth. Who is he that condemneth? It is Chriſt that dy<gap reason="illegible" resp="#APEX" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>d; yea rather that riſen is again: Rom.</hi> 8. 34. But the freeing of the priſo<gap reason="illegible" resp="#APEX" extent="1 letter">
+                  <desc>•</desc>
+               </gap>er argues the ranſom is payd, and Juſtice ſatisfied.</p>
+            <p>Fourthly, Chriſt, <hi>by his a<gap reason="illegible" resp="#APEX" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>c<gap reason="illegible" resp="#APEX" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>nding and living in Glory, is become the plague of death:</hi> Spiritual death is thus deſtroyed, as ſoon as it begins to <gap reason="illegible" resp="#APEX" extent="1 letter">
+                  <desc>•</desc>
+               </gap>reep upon the
+<pb n="84" facs="tcp:37272:45"/>
+Saints of God. Chriſt ſitteth at the right hand of God to make interceſſion for them, <hi>Rom.</hi> 8. 34. <hi>And now we know that if we ſin, we have an Advocate with the Father, even Christ the Righteous,</hi> 1 <hi>Joh.</hi> 2. 1. Thus Temporal death was deſtroyed; for it appeared by this, That he did not come out of the grave with deaths leave, upon condition to return a priſoner a<g ref="char:EOLhyphen"/>gain. <hi>Rev.</hi> 1. 18. <hi>He lives that was dead, and is alive for evermore.</hi> He roſe no <note place="margin">Eph. 4. 8.</note> more to go down to the priſon again; thus <hi>Eternal Death</hi> is deſtroyed too. For, <hi>In that we know our Redeemer lives, we know we ſhall ſee him with theſe eyes, and live with him in Glory.</hi> Therefore the Pſalmiſt putteth them together; <hi>He hath aſcended up on high, and led Capti<g ref="char:EOLhyphen"/>vity</hi> [all kind of Captivity] <hi>Captive:</hi> In that he is aſcended to <hi>his Father, and our Father; our God, and his God;</hi> We know <note place="margin">Ioh. 20. 17 Ioh. 14. 3.</note> he is not <hi>amiſſus,</hi> but <hi>praemiſſus,</hi> not loſt, but gone before to prepare a place for us, and that <hi>he will one day come again, and receive us to himſelf, that where he is, there we may be alſo.</hi>
+            </p>
+            <p>Laſtly, He will yet be the plague and <milestone type="tcpmilestone" unit="unspecified" n="5"/> deſtruction of death and the grave, <hi>by his</hi>
+               <pb n="85" facs="tcp:37272:45"/>
+               <hi>freeing and acquitting power,</hi> at the great day, when he ſhall come to judg the quick and dead, when he ſhall come in his Glory, and ſhall ſound the Trumpet to a Reſurrection: <hi>Gather my Saints together, thoſe that have made a Covenant with</hi> 
+               <note place="margin">1 Cor. 15. 16</note> 
+               <hi>me by Sacrifice:</hi> Then ſhall there not the leaſt ſmell of the death of ſin remain a<g ref="char:EOLhyphen"/>bout the bodies or ſouls of his Servants; then the priſon of the grave ſhall fly open, and be ſhut no more for ever; all the bars and locks of the grave ſhall fly off, and death it ſelf ſhall be deſtroyed, and all bodies have a <hi>liberavit;</hi> then ſhall the Robes of Righteouſneſs be put on the ſouls and bodies of his Saints, and the Crown of Glory ſhall be put upon their heads, even the Crown of Everlaſting Life; then ſhall all the redeemed ones of the Lord be actually declared before all the world to be free for ever, not only from the firſt, but the ſecond death; and the Saints that have been buried in Chriſts Death, and quickened by his Reſurrecti<g ref="char:EOLhyphen"/>on, ſhall for ever live with him in Glory, and ſing for ever, <hi>O death, where's thy ſting? O hell, where's thy victory?</hi> Thus Chriſt is the plague of Death, and the de<g ref="char:EOLhyphen"/>ſtruction
+<pb facs="tcp:37272:46"/>
+of the Grave.</p>
+            <p>I have done with the Doctrinal part, and am come to Application.</p>
+            <p>Firſt, It ſhall ſerve for Inſtruction; ſe<g ref="char:EOLhyphen"/>condly, for Conſolation; and laſtly, for Ex<g ref="char:EOLhyphen"/>hortation.</p>
+            <p>Firſt, For Inſtruction: <hi>It may inſtruct</hi> 
+               <milestone type="tcpmilestone" unit="unspecified" n="1"/> 
+               <hi>us how wonderfully beholden every Saint of God is to the Lord Jeſus Christ.</hi>
+            </p>
+            <p n="1">1. Do but conſider <hi>what he hath done for thee:</hi> He hath delivered thee; Is that all? No, he hath redeemed thee; it argues a price paid for thee, to deliver thee from ſin, the grave, and hell: We<gap reason="illegible" resp="#APEX" extent="1 letter">
+                  <desc>•</desc>
+               </gap>t not thou all mired with ſin, under the power and command of ſin, a ſlave to thy baſe luſts and corruptions, <hi>dead in treſpaſſes and ſins?</hi> Who hath quickened thee? Who hath ſaid to thee <hi>in thy blood live?</hi> Was it not h<gap reason="illegible" resp="#APEX" extent="1 letter">
+                  <desc>•</desc>
+               </gap> that hath here ſaid, <hi>O death, I will be thy death? Who ſhall deliver me from this body of death?</hi> (ſaith the Apoſtle.) <hi>O w<gap reason="illegible" resp="#APEX" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>etched man that I am, &amp;c.</hi> 
+               <note place="margin">Rom. 7. 24 25</note> 
+               <hi>I thank God through Jeſus Chriſt o<gap reason="illegible" resp="#APEX" extent="2 letters">
+                     <desc>••</desc>
+                  </gap> Lord. O death, he is thy death!</hi>
+            </p>
+            <p n="2">2. Thou art redeemed from the <hi>power of the grave, and from the bitterneſs of it:</hi> Who hath done this? Was it not he
+<pb n="87" facs="tcp:37272:46"/>
+again that took fleſh, and became parta<g ref="char:EOLhyphen"/>ker with us of it, that through death he might deſtroy him that had the power of it, and deliver them that all their life time; through fear, were ſubject to bondage.</p>
+            <p n="3">3. <hi>Who hath ſaved thee from the ſe<g ref="char:EOLhyphen"/>cond death,</hi> from hell, and eternal tor<g ref="char:EOLhyphen"/>ments, but thy Saviour who hath put this ſong into thy mouth, <hi>O hell, where's thy victory?</hi> B<gap reason="illegible" resp="#APEX" extent="1 letter">
+                  <desc>•</desc>
+               </gap>t conſider again how Jeſus Chriſt hath done this, <hi>by his own dying.</hi> Chriſt dyed in the fleſh, that thou mayſt not dye in thy ſins; himſelf taſted the bitterneſs of the cup, that he might leave it ſweet to all his children. Is not thy heart won with his love, Chriſtian? Doſt thou ſee him encounter thy three great ene<g ref="char:EOLhyphen"/>mies, the firſt, the ſecond, the third death? for ſo I may call them: Doſt thou ſee him dying in the fight, and conquering by his dying pains? O my Soul, thou art drawn with ſtrong cords of love, <hi>run after him.</hi>
+            </p>
+            <p>Secondly, From hence we may learn <hi>of what uſe and comfort every Act of Chriſt is, and may be, to believers.</hi> His death, his riſing, his aſcenſion, nothing of what he did was too little, nor any thing too much; there could have wanted nothing, and
+<pb n="88" facs="tcp:37272:47"/>
+there was nothing redundant; if he had not dyed, he had not merited deliverance from Spiritual Death; if he had not ri<g ref="char:EOLhyphen"/>ſen, he had not conquered Natural Death; if he had not aſcended, he had not led all Captivity Captive. Let every action of Chriſt comfort thee, who did all that he did for thee.</p>
+            <p>Thirdly, From hence we may be in<g ref="char:EOLhyphen"/>ſtructed, <hi>why ſo many are afraid of death;</hi> Temporal Death I mean. The cauſe may be double, either a want of Chriſt, or a want of Faith. 1. Wicked, vil<gap reason="illegible" resp="#APEX" extent="1 letter">
+                  <desc>•</desc>
+               </gap> wretches they are afraid to dye: Oh that that cup might ever paſs from them; they know not how to think of that day, and parting hour; and truly no great marvel, death with its ſting in it, will fear the ſtouteſt man in the world: For a poor wretch to be rea<g ref="char:EOLhyphen"/>dy to dye, and cry out, Now goes out my poor ſoul to anſwer for all my oaths and blaſphemies, for all my Sabbath breaking and profaneſs; now muſt I take my leave of all comforts, friends, wife, chil<g ref="char:EOLhyphen"/>dren, all adieu for ever. If death be not kil'd it ſelf, it kills the heart of the ſtout<g ref="char:EOLhyphen"/>eſt, the poor wretch cannot ſee that Chriſt hath redeemed him from the pow<g ref="char:EOLhyphen"/>er
+<pb n="89" facs="tcp:37272:47"/>
+of the grave. 2. Gods own dear chil<g ref="char:EOLhyphen"/>dren may fear death, through a want of faith, not applying, with ſuch a confidence as they ought, the merits and vertue of Chriſts death to their ſouls. Thoſe now that the Lord hath given a perſwaſion to, that they have an Intereſt in Jeſus Chriſt, thoſe dye without fear, they know their Redeemer lives; and this was the happi<g ref="char:EOLhyphen"/>neſs of this precious Saint of God, that he hath now taken from us: She had com<g ref="char:EOLhyphen"/>forted her ſelf againſt the fear of Death, that ſhe could ſay, <hi>O death, where's thy ſting?</hi> Therefore in a book ſhe had com<g ref="char:EOLhyphen"/>poſed and written for her own uſe, to <note place="margin">Her book <gap reason="illegible" resp="#APEX" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>s annex<g ref="char:EOLhyphen"/>ed to this Sermon.</note> comfort her againſt the fear of Death. She makes it her work to prove her intereſt in Chriſt, and did it by ſeveral marks, which made her dye without giving death an ill word, or countenance; death came, but he had loſt his ſting, Chriſt had been its plague.</p>
+            <p>A ſecond Uſe may be of Conſolation <milestone type="tcpmilestone" unit="unspecified" n="2"/> to <hi>comfort the children of God against the fear of death:</hi> Lift up your heads, O ye righteous! be glad ye upright in heart! All your enemies are trodden un<g ref="char:EOLhyphen"/>der foot: fear not ſin, death, nor hell.
+<pb n="90" facs="tcp:37272:48"/>
+Death hath loſt its ſting, Hell hath loſt its victory. 1. <hi>Fear not ſpiritual death: Sin ſhall no longer have dominion over your mortal bodies;</hi> for Chriſt hath died to free you from the guilt of it, and to deliver you from the power of it. It may live, it ſhall not reign; it may fight againſt, it ſhall not conquer you. 2. <hi>Fear not temporal death.</hi> Conſider the Waſp hath loſt its ſting. What hurt can it do thy ſoul? It is not thy ruine Chriſtian! It is thy perfection. <hi>Luke</hi> 13 32. <hi>I do cures, ſaith Chriſt, to day, and to morrow, and the third day I ſhall be perfected.</hi> Thou art not perfected here Chriſtian! there is a crown of glory, that the Father will ſet on thy h<gap reason="illegible" resp="#APEX" extent="1 letter">
+                  <desc>•</desc>
+               </gap>ad with the black hand of death. Who fears the Serpent, that hath loſt its teeth? the Bee that hath loſt its ſting. O death, Chriſt hath been thy death! Though thou mightſt be afraid to take up death, when it was a Serpent, yet ſee its turned into a rod. What is thy life Chriſtian? is it not full of frowns? are not all thy days almoſt tears and ſorrow? Doth not the wicked world look a ſquint upon the Saints of God? is not ſuffering an hereditary diſeaſe, that runs in the
+<pb n="91" facs="tcp:37272:48"/>
+blood of Mighty Jeſus? that every Saint is born to inherit the Croſs, and through <hi>Golgotha,</hi> to take his way to glory? what ſhould wed thee to the world Chriſtian? not thy deſire of life; and ſure it cannot be thy fear of death. Death hath nothing formidable in it: Say to it <hi>Chriſt is dead. O death where is thy ſting then?</hi> Much leſs can they fear eternal death; for they are paſſed from death to life, and the ſe<g ref="char:EOLhyphen"/>cond death hath no power over them.</p>
+            <p>I have but a word more, and that is of <milestone type="tcpmilestone" unit="unspecified" n="3"/> Exhortation. Firſt, To all, to get an in<g ref="char:EOLhyphen"/>tereſt in Jeſus Chriſt. Thus prepare your ſelves for the day of diſſolution: It is a ſtatute in the Records of Heaven, That all men ſhould once die, and afterwards come to judgment. Death is a bitter cup to thoſe that know nothing to ſweeten it. Learn here to get a part in the Lord Jeſus Chriſt, a title to him, an intereſt in him: He hath taken out the ſting of death; he hath been its plag<gap reason="illegible" resp="#APEX" extent="1 letter">
+                  <desc>•</desc>
+               </gap>e, but not for all, ſee therefore for thy intereſt in him: <hi>Hic labor, hoc opus eſt;</hi> Chriſtians, here is your work, you ſpend elſe your time for nothing, and your labor for that which will not profit. <hi>Work out your</hi>
+               <pb n="92" facs="tcp:37272:49"/>
+               <hi>ſalvation; give all diligence to make your calling and election ſure.</hi> This is your land-work Saints; and while it is done, you will never be prepared to go to Sea, to ſet ſail for eternity; he will never be ſatisfied with time and days, that hath not ſome grounds to hope for eternity. O that you would labor to make this work, your work: You ſpend your days in labor and ſorrow; and when you die, you will lie down in ſorrow. Believe it, you that ſpend your ſtrength, for that which will not profit; you will ſee the day when your ſouls will be troubled for the hours loſt in dreſſing &amp; vanity, in the following the luſts of the eye, and of the fleſh. O make this your work, to get a portion in Chriſt, and believe him (who though he knows but little, knows that) you will finde it a difficult work; a work, that will be enough for the time, and for the ſtrength you have to ſpend. If you have Chriſt, you are well, if not, you die a ſlave to death, and will be a gally<g ref="char:EOLhyphen"/>ſlave to Satan in Hell for ever. O that you would be wiſe, and conſider your latter end, before you come down won<g ref="char:EOLhyphen"/>derfully. This was the work, and conſtant
+<pb n="93" facs="tcp:37272:49"/>
+work of this precious Si<gap reason="illegible" resp="#APEX" extent="2 letters">
+                  <desc>••</desc>
+               </gap>er of ours, whom God hath now taken from the evil to come. It was her practice to haſten over the buſineſs of her family, as a thing to be done, yet not her great work; and then to apply her ſelf to the great work of making her calling and election ſure. In which, her pains were as unweariable, as others are in vanity. That ſhe hath leſt behinde her ſeveral Books written, which are as the C<gap reason="illegible" resp="#APEX" extent="1 letter">
+                  <desc>•</desc>
+               </gap>ronicle and Annuals of her life; collecting thoſe promiſes on which her ſoul reſted; framing the objections of her own ſpirit, and ſeeking out ſatisfaction from Gods Word. If in any thing ſhe doubted, ſhe <gap reason="illegible" resp="#APEX" extent="1 letter">
+                  <desc>•</desc>
+               </gap>nquired at the lips of them that ſhould preſerve knowledg, and pens down their anſwers, obſerves Gods ways with her ſelf, and her own frame towards him; and from all, gathers up a poſie of ſuch evidences of ſaving Grace, as ſhe could finde in her ſoul, to comfort her in her latter hour. And if any asks, what profited this labor? I could onely have wiſhed, that ſuch per<g ref="char:EOLhyphen"/>ſons had been (as I was) a witneſs to her dying happineſs; to have ſeen with what a peace of Spirit, what a fulneſs of
+<pb n="94" facs="tcp:37272:50"/>
+aſſurance, what hope, what joy, ſhe en<g ref="char:EOLhyphen"/>tertained her laſt affliction, the meſſenger of death: There they ſhould have ſeen this promiſe made good; the grave de<g ref="char:EOLhyphen"/>ſtroyed; the Saint delivered; hell trod<g ref="char:EOLhyphen"/>en under foot; death deſired, conquered, deſpiſed; this ſong ſung, <hi>O death where is thy fling? O hell where is thy victory?</hi>
+            </p>
+            <p>Be exhorted, O ye that have a portion in Chriſt, <hi>be exhorted to tred under foot your conquered enemy.</hi> What is there in death, that is terrible or bitter, to thoſe that have a portion in the Lord Jeſus Chriſt? Why are you afraid to be made perfect? there is no taſte of hell in the cup. The priſon doors ſhall not be lockt; the bolts are broken off; the bitterneſs of death is paſt. O deſire to be diſſolved, and to be with Chriſt: Love the wind<g ref="char:EOLhyphen"/>ing-ſheet that wrapt up your Saviour; the ſtones and gravel of the grave, have nothing in them that is hard or harſh. Chriſt hath been the plague of death, and the deſtruction of the grave. <hi>I heard a voyce from henceforth, ſaying, Bleſſed are they that die in the Lord; yea, (ſaith</hi>
+               <pb facs="tcp:37272:50"/>
+               <hi>the Spirit) for they reſt from their labors.</hi>
+            </p>
+            <p>Laſtly, From this Text may thoſe that <milestone type="tcpmilestone" unit="unspecified" n="4"/> mourn for the dead, in the Lord, be com<g ref="char:EOLhyphen"/>forted. Haſt thou loſt a believing friend? <hi>Weep not for her, weep for thy ſelf:</hi> Not that ſhe is gone, but that thou art here. Death hath our friend in his hands, but not in his power. It is Chriſt that hath ſaid, <hi>I will rede<gap reason="illegible" resp="#APEX" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>m you from the power of the grave.</hi> Is not Chriſt dead? is not he riſen again? and aſcended? hath he not led captivity captive? why mourneſt thou then for a Saints freedom? is there any thing of bitterneſs in the cup, that thy and her Father, hath given her to drink? Triumph, becauſe ſhe triumpheth; rejoyce, becauſe all tears are now wiped from her eyes; ſhew a faith in Chriſts death, Reſurrection, Aſcenſion, conqueſt over Sin, Death, and Hell. The work of Righteouſneſs is peace; and the <gap reason="illegible" resp="#APEX" extent="1 letter">
+                  <desc>•</desc>
+               </gap>ffect of her Righteouſneſs, quietneſs, peace, and aſſurance for ever.</p>
+            <trailer>FINIS.</trailer>
+         </div>
+      </body>
+   </text>
+</TEI>
